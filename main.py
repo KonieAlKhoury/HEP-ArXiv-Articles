@@ -35,6 +35,19 @@ def load_data(query, max_results, add_options=''):
     return data
 
 
+def save_dataframes(df, filename):
+    #remove the Paper Type and ATLAS Collaboration columns
+    del df['Paper Type'],df['ATLAS Collaboration'] 
+    # Change authors to a set, to match the PostgreSQL data requirements
+    df['authors'] = df['authors'].apply(set)
+    # Save the data to a csv file
+    df.to_csv('filename', index=False)
+
+    # df_Arxiv.to_parquet('df_Arxiv.parquet.gzip',
+    #               compression='gzip')
+ 
+
+
 def main():
     # This load the data of the last 200 papers in the 'hep-ph' category and from the ATLAS experiment
     query = 'cat:hep-ph+AND+all:ATLAS'
@@ -53,8 +66,7 @@ def main():
             'summary': entry.summary, 
             'authors':entry.authors, 
             'updated':entry.updated, 
-            'published':entry.published, 
-            'tags':entry.tags})
+            'published':entry.published})
 
     #Load data in the dataframe and check the first 5 rows        
     df_Arxiv = pd.DataFrame(List_Arxiv)  
@@ -69,7 +81,6 @@ def main():
     # Add title and labels
     title = 'Number of papers published per month'
     plt.title(title)
-    plt.xlabel('Date of publication')  
     plt.ylabel('Number of papers')
     # plt.show()
 
@@ -96,11 +107,13 @@ def main():
     df_Arxiv['Paper Type'].value_counts().plot(kind='bar')
     # Add title and labels
     plt.title('Number of paper per type of analysis')
-    plt.xlabel('Results')
+    plt.xlabel('')
     plt.ylabel('Number of papers')
     plt.xticks(rotation=0)
-    plt.show()
+    # plt.show()
 
+    #Save the data in a csv file
+    save_dataframes(df_Arxiv, 'Arxiv_data.csv')
     
 
 
