@@ -70,7 +70,7 @@ def main():
 
     #Load data in the dataframe and check the first 5 rows        
     df_Arxiv = pd.DataFrame(List_Arxiv)  
-    print(df_Arxiv.head(5))
+    # print(df_Arxiv.head(5))
 
     #Get the number of published paper as function of time
     # Convert the string to a datetime object
@@ -113,7 +113,7 @@ def main():
     # plt.show()
 
     #Save the data in a csv file
-    save_dataframes(df_Arxiv, 'Arxiv_data.csv')
+    # save_dataframes(df_Arxiv, 'Arxiv_data.csv')
     
 
 

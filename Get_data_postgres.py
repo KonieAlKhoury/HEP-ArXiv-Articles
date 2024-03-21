@@ -1,11 +1,15 @@
 from sqlalchemy import create_engine
 from sqlalchemy import text
 import pandas as pd
+import os
 
 def Get_data_postgres(database,table):
-    # define the postgres connection string
-    connection_str = f"postgresql://postgres:POSTgres21032024@localhost:5432/{database}"
-
+    # Get the value of the POSTGRES_USER environment variable
+    postgres_user = os.environ.get('POSTGRES_USER')
+    # Get the value of the POSTGRES_PW environment variable
+    postgres_pw = os.environ.get('POSTGRES_PW')
+    #Use the value of the POSTGRES_USER environment variable in the connection string
+    connection_str = f"postgresql://{postgres_user}:{postgres_pw}@localhost:5432/{database}"
     #Create a SQLAlchemy engine
     engine = create_engine(connection_str)
 
