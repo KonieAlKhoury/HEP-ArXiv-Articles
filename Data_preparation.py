@@ -8,7 +8,7 @@ from Get_data_postgres import Get_data_postgres
 
 
 def main():
-    #Check the first row
+    #Get the data from the postgres database
     database = "Arxiv_data"
     table = "Last_200_papers"
     df_Arxiv = Get_data_postgres(database,table)
@@ -42,8 +42,8 @@ def main():
 
     #Create a SQLAlchemy engine
     engine = create_engine(connection_str)
-    #Push the data to the new table, if exists append the data
-    df_Arxiv.to_sql(new_table, con=engine, if_exists='append',index=False)
+    #Push the data to the new table, if exists replace the data
+    df_Arxiv.to_sql(new_table, con=engine, if_exists='replace',index=False)
 
 
 if __name__ == "__main__":
