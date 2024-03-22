@@ -37,7 +37,7 @@ def data_preparation(df):
 def main():
     #Get the data from the postgres database
     database = "Arxiv_data"
-    table = "Last_200_papers"
+    table = "Last_500_papers"
     df_Arxiv = Get_data_postgres(database,table)
 
     df_Arxiv['title'] = data_preparation(df_Arxiv['title'])

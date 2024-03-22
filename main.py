@@ -37,9 +37,9 @@ def load_data(query, max_results, add_options=''):
 
 
 def main():
-    # This load the data of the last 200 papers in the 'hep-ph' category and from the ATLAS experiment
+    # This load the data of the last 500 papers in the 'hep-ph' category and from the ATLAS experiment
     query = 'cat:hep-ph+AND+all:ATLAS'
-    max_results=200
+    max_results=500
     add_options = '&sortBy=submittedDate&sortOrder=descending'
 
     data = load_data(query , max_results, add_options)
@@ -70,7 +70,7 @@ def main():
     title = 'Number of papers published per month'
     plt.title(title)
     plt.ylabel('Number of papers')
-    # plt.show()
+    plt.show()
 
 
     # Check the number of papers published under the ATLAS Collaboration
@@ -86,7 +86,7 @@ def main():
     plt.xlabel('Authors')
     plt.ylabel('Number of papers')
     plt.xticks([1, 0], ['ATLAS Collaboration', 'Other'], rotation=0)
-    # plt.show()
+    plt.show()
 
     #Check if the paper has a search, measurement or other specific results using the title
     #First convert the title to lower case 
@@ -98,10 +98,10 @@ def main():
     plt.xlabel('')
     plt.ylabel('Number of papers')
     plt.xticks(rotation=0)
-    # plt.show()
+    plt.show()
 
     database = "Arxiv_data"
-    table = "Last_200_papers"
+    table = "Last_500_papers"
     del df_Arxiv['Paper Type'],df_Arxiv['ATLAS Collaboration'] 
     write_data_postgres(df_Arxiv,database,table)
     
