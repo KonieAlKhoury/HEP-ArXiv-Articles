@@ -3,10 +3,35 @@ import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
-from Get_data_postgres import Get_data_postgres
+from Get_data_postgres import Get_data_postgres, write_data_postgres
 import os
 import string
 
+def data_preparation(df):
+    # start preparing the data by setting all words to lower case
+    df = df.str.lower()
+    # remove "\n" from title and summary and convert them to a space
+    df = df.str.replace("\n", " ")
+
+    #remove the stop/filling words, such as the, I , we , and, etc .. 
+    # Using the stopwords from the nltk package and setting it to english
+    stops = stopwords.words('english')
+    # Split the title and summary into words
+    df = df.str.split()
+    df = df.apply(lambda x: [item for item in x if item not in stops])
+
+    #remove all numbers from the title and summary
+    df = df.apply(lambda x: [item for item in x if item.isdigit() == False])
+
+    #remove all words with $ or \\ in them to remove latex words 
+    df = df.apply(lambda x: [item for item in x if '$' not in item and '\\' not in item])
+
+    #remove all ponctuations from the title and summary
+    df = df.apply(lambda x: [''.join(c for c in item if c not in string.punctuation) for item in x])
+
+    return df
+    
+    
 
 
 def main():
@@ -15,36 +40,8 @@ def main():
     table = "Last_200_papers"
     df_Arxiv = Get_data_postgres(database,table)
 
-    # start preparing the data by setting the title and suummary to lower case
-    df_Arxiv['title'] = df_Arxiv['title'].str.lower()
-    df_Arxiv['summary'] = df_Arxiv['summary'].str.lower()
-    
-    # remove "\n" from title and summary and convert them to a space
-    df_Arxiv['title'] = df_Arxiv['title'].str.replace("\n", " ")
-    df_Arxiv['summary'] = df_Arxiv['summary'].str.replace("\n", " ")
-
-    #remove the stop/filling words, such as the, I , we , and, etc .. 
-    # Using the stopwords from the nltk package and setting it to english
-    stops = stopwords.words('english')
-    # Split the title and summary into words
-    df_Arxiv['title'] = df_Arxiv['title'].str.split()
-    df_Arxiv['summary'] = df_Arxiv['summary'].str.split()
-    # Remove the stop words
-    df_Arxiv['title'] = df_Arxiv['title'].apply(lambda x: [item for item in x if item not in stops])
-    df_Arxiv['summary'] = df_Arxiv['summary'].apply(lambda x: [item for item in x if item not in stops])
-
-    #remove all numbers from the title and summary
-    df_Arxiv['title'] = df_Arxiv['title'].apply(lambda x: [item for item in x if item.isdigit() == False])
-    df_Arxiv['summary'] = df_Arxiv['summary'].apply(lambda x: [item for item in x if item.isdigit() == False])
-
-    #remove all words with $ or \\ in them to remove latex words 
-    df_Arxiv['title'] = df_Arxiv['title'].apply(lambda x: [item for item in x if '$' not in item and '\\' not in item])
-    df_Arxiv['summary'] = df_Arxiv['summary'].apply(lambda x: [item for item in x if '$' not in item and '\\' not in item])
-
-    #remove all ponctuations from the title and summary
-    df_Arxiv['title'] = df_Arxiv['title'].apply(lambda x: [''.join(c for c in item if c not in string.punctuation) for item in x])
-    df_Arxiv['summary'] = df_Arxiv['summary'].apply(lambda x: [''.join(c for c in item if c not in string.punctuation) for item in x])
-
+    df_Arxiv['title'] = data_preparation(df_Arxiv['title'])
+    df_Arxiv['summary'] = data_preparation(df_Arxiv['summary'])
 
     #Pushing the processed data to a new table in the same database
     #Prepare the 3 dataframes, 1 for the title, 1 for the summary and 1 for the authors
@@ -60,19 +57,10 @@ def main():
     df_Arxiv_authors = df_Arxiv_authors.explode('authors')
 
  
-    # # Get the value of the POSTGRES_USER environment variable
-    postgres_user = os.environ.get('POSTGRES_USER')
-    # # Get the value of the POSTGRES_PW environment variable
-    postgres_pw = os.environ.get('POSTGRES_PW')
-    # Use the value of the POSTGRES_USER environment variable in the connection string
-    connection_str = f"postgresql://{postgres_user}:{postgres_pw}@localhost:5432/{database}"
-
-    #Create a SQLAlchemy engine
-    engine = create_engine(connection_str)
     #Push the data to the new table, if exists replace the data
-    df_Arxiv_title.to_sql("Arxiv_data_title", con=engine, if_exists='replace',index=False)
-    df_Arxiv_summary.to_sql("Arxiv_data_summary", con=engine, if_exists='replace',index=False)
-    df_Arxiv_authors.to_sql("Arxiv_data_authors", con=engine, if_exists='replace',index=False)
-
+    write_data_postgres(df_Arxiv_title,database,"Arxiv_data_title")
+    write_data_postgres(df_Arxiv_summary,database,"Arxiv_data_summary")
+    write_data_postgres(df_Arxiv_authors,database,"Arxiv_data_authors")
+ 
 if __name__ == "__main__":
     main()

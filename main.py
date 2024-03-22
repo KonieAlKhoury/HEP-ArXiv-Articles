@@ -2,6 +2,7 @@ import feedparser
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+from Get_data_postgres import  write_data_postgres
 
 def load_data(query, max_results, add_options=''):
     """
@@ -35,19 +36,6 @@ def load_data(query, max_results, add_options=''):
     return data
 
 
-def save_dataframes(df, filename):
-    #remove the Paper Type and ATLAS Collaboration columns
-    del df['Paper Type'],df['ATLAS Collaboration'] 
-    # Change authors to a set, to match the PostgreSQL data requirements
-    df['authors'] = df['authors'].apply(set)
-    # Save the data to a csv file
-    df.to_csv('filename', index=False)
-
-    # df_Arxiv.to_parquet('df_Arxiv.parquet.gzip',
-    #               compression='gzip')
- 
-
-
 def main():
     # This load the data of the last 200 papers in the 'hep-ph' category and from the ATLAS experiment
     query = 'cat:hep-ph+AND+all:ATLAS'
@@ -70,7 +58,7 @@ def main():
 
     #Load data in the dataframe and check the first 5 rows        
     df_Arxiv = pd.DataFrame(List_Arxiv)  
-    # print(df_Arxiv.head(5))
+    print(df_Arxiv.head(5))
 
     #Get the number of published paper as function of time
     # Convert the string to a datetime object
@@ -112,8 +100,10 @@ def main():
     plt.xticks(rotation=0)
     # plt.show()
 
-    #Save the data in a csv file
-    # save_dataframes(df_Arxiv, 'Arxiv_data.csv')
+    database = "Arxiv_data"
+    table = "Last_200_papers"
+    del df_Arxiv['Paper Type'],df_Arxiv['ATLAS Collaboration'] 
+    write_data_postgres(df_Arxiv,database,table)
     
 
 

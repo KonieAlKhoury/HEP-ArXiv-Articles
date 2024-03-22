@@ -21,7 +21,7 @@ more constrained to assure the CDF reported value of the W boson. Finally, all
 potential solutions estimating the W-boson mass within a $1\sigma$ vicinity are
 rigorously tested using the HiggsTools package. Remarkably, only one solution
 remains valid, estimating $M_W=80.4103$ GeV within a $2.44\sigma$ vicinity of
-the CDF-reported value.","{'Huseyin Dag', 'Ali Cici'}",2024-03-16T10:47:13Z,2024-03-16 10:47:13+00:00
+the CDF-reported value.","{'Ali Cici', 'Huseyin Dag'}",2024-03-16T10:47:13Z,2024-03-16 10:47:13+00:00
 "interpreting 95 gev di-photon/$b\bar{b}$ excesses as a lightest higgs
   boson of the mrssm","The Minimal R-symmetric Supersymmetric Standard Model (MRSSM) is a well
 motivated BSM model which can accommodate the observed 125 GeV Higgs boson in
@@ -39,7 +39,7 @@ light bino-singlino Dirac dark matter candidate, which can give a correct relic
 density while evading current experimental bounds. Dark matter and LHC searches
 place further bounds on this scenario and point to parameter regions which are
 viable and of interest for the LHC Run III and upcoming dark matter
-experiments.","{'Jan Kalinowski', 'Wojciech Kotlarski'}",2024-03-13T17:19:54Z,2024-03-13 17:19:54+00:00
+experiments.","{'Wojciech Kotlarski', 'Jan Kalinowski'}",2024-03-13T17:19:54Z,2024-03-13 17:19:54+00:00
 "symmetric cumulant $sc_{2,4} \left \{ 4 \right \}$ and asymmetric
   cumulant $ac_{2} \left \{ 3 \right \}$ from transverse momentum conservation
   and flow","The multi-particle cumulants method can be used to reveal long-range
@@ -51,7 +51,7 @@ conservation and flow are calculated. The interplay between the two effects is
 also investigated. Our results are in good agreement with the recent ATLAS
 measurements of multi-particle azimuthal correlations with the subevent
 cumulant method, which provides insight into the origin of collective flow in
-small systems.","{'Jia-Lin Pei', 'Guo-Liang Ma', 'Adam Bzdak'}",2024-03-09T03:31:22Z,2024-03-09 03:31:22+00:00
+small systems.","{'Adam Bzdak', 'Jia-Lin Pei', 'Guo-Liang Ma'}",2024-03-09T03:31:22Z,2024-03-09 03:31:22+00:00
 the quest to discover supersymmetry at the atlas experiment,"The search for supersymmetry with the ATLAS experiment at the CERN Large
 Hadron Collider intensified after the discovery of the Higgs boson in 2012. The
 search programme expanded in both breadth and depth, profiting from the
@@ -81,7 +81,7 @@ bosons. We attribute the muon anomaly to loops involving muon-smuon-neutralino
 and muon-sneutrino-chargino interactions, while attributing the diphoton and $b
 \bar{b}$ excesses to the resonant production of a singlet-dominated scalar.
 These proposed solutions are poised for experimental tests at the
-high-luminosity LHC and future linear colliders.","{'Junjie Cao', 'Jingwei Lian', 'Xinglong Jia'}",2024-02-24T16:30:03Z,2024-02-24 16:30:03+00:00
+high-luminosity LHC and future linear colliders.","{'Xinglong Jia', 'Jingwei Lian', 'Junjie Cao'}",2024-02-24T16:30:03Z,2024-02-24 16:30:03+00:00
 "calograph: graph-based diffusion model for fast shower generation in
   calorimeters with irregular geometry","Denoising diffusion models have gained prominence in various generative
 tasks, prompting their exploration for the generation of calorimeter responses.
@@ -92,7 +92,7 @@ model designed specifically for rapid calorimeter simulations. The methodology
 is particularly well-suited for low-granularity detectors featuring irregular
 geometries. We apply this model to the ATLAS dataset published in the context
 of the Fast Calorimeter Simulation Challenge 2022, marking the first
-application of a graph diffusion model in the field of particle physics.","{'Eilam Gross', 'Etienne Dreyer', 'Nathalie Soybelman', 'Dmitrii Kobylianskii'}",2024-02-18T12:45:36Z,2024-02-18 12:45:36+00:00
+application of a graph diffusion model in the field of particle physics.","{'Nathalie Soybelman', 'Eilam Gross', 'Etienne Dreyer', 'Dmitrii Kobylianskii'}",2024-02-18T12:45:36Z,2024-02-18 12:45:36+00:00
 unitarity effects in elastic scattering at the lhc,"We study the high-energy behavior of the elastic scattering amplitude using
 two distinct unitarization schemes: the eikonal and the $U$-matrix. Our
 analysis begins with a formalism involving solely Pomerons, incorporating
@@ -104,7 +104,7 @@ $d\sigma/dt$ at 7, 8, and 13 TeV, and the subsequent implications for the
 properties of both the Pomeron and Odderon. Our results show that the Odderon
 phase factor $\xi_{\Bbb O}= -1$ is favored in both unitarization schemes. More
 interestingly, this specific phase factor stands as the sole one that aligns
-with results consistent with a non-zero Odderon coupling.","{'M. Maneyro', 'M. Peláez', 'E. G. S. Luna'}",2024-02-17T21:35:44Z,2024-02-17 21:35:44+00:00
+with results consistent with a non-zero Odderon coupling.","{'E. G. S. Luna', 'M. Peláez', 'M. Maneyro'}",2024-02-17T21:35:44Z,2024-02-17 21:35:44+00:00
 "interpretations of the atlas measurements of higgs boson production and
   decay rates and differential cross-sections in $pp$ collisions at
   $\sqrt{s}=13$ tev","Measurements of the Higgs boson production times decay rates and differential
@@ -139,7 +139,7 @@ type-III and suggest alternative decay channel $H^\pm \rightarrow cs$ and/or
 $H^\pm \rightarrow W^{\pm *}h$ to probe the nature of the observed excess (if
 it is not a statistical fluctuation). Future searches for $H^\pm$ will be
 critical in confirming or refuting the first hint of a light charged Higgs
-boson at the LHC.","{'Souad Semlali', 'Mohamed Krab', 'Abdesslam Arhrib'}",2024-02-12T08:30:07Z,2024-02-05 17:00:48+00:00
+boson at the LHC.","{'Mohamed Krab', 'Abdesslam Arhrib', 'Souad Semlali'}",2024-02-12T08:30:07Z,2024-02-05 17:00:48+00:00
 higgs precision analysis of the full lhc run 1 and run 2 data,"We perform global fits of the Higgs boson couplings to the full Higgs
 datasets collected at the LHC with the integrated luminosities per experiment
 of approximately 5/fb at 7 TeV, 20/fb at 8 TeV, and up to 139/fb at 13 TeV. Our
@@ -155,7 +155,7 @@ $1\sigma$ errors of 3-5%. On the other hand, the gauge-Higgs couplings are
 consistent with the SM with the $1\sigma$ errors of 2-3%. Incidentally, the
 reduced Yukawa couplings help to explain the excess of the $H\to Z\gamma$
 signal strength of $2.2\pm 0.7$ recently reported by the ATLAS and CMS
-collaborations.","{'Dong-Won Jung', 'Jae Sik Lee', 'Yongtae Heo'}",2024-02-05T09:09:22Z,2024-02-05 09:09:22+00:00
+collaborations.","{'Dong-Won Jung', 'Yongtae Heo', 'Jae Sik Lee'}",2024-02-05T09:09:22Z,2024-02-05 09:09:22+00:00
 "atlas run 2 searches for electroweak production of supersymmetric
   particles interpreted within the pmssm","A summary of the constraints from searches performed by the ATLAS
 Collaboration for the electroweak production of charginos and neutralinos is
@@ -184,7 +184,7 @@ diphoton decay mode as reported by ATLAS and CMS, together with a $\sim$
 2$\sigma$ excess (local) in the $b\bar{b}$ final state at LEP in the same mass
 range. By introducing CPV phases as well as by mixing CP-even Higgs and CP-odd
 Higgs, a lighter Higgs boson in the $\mu\nu$SSM can be produced, which can
-account for the ""di-photon excess"".","{'Hai-Bin Zhang', 'Tai-Fu Feng', 'Jiao Ma', 'Xiao-Yu Zheng', 'Yang Zhou', 'Chang-Xin Liu'}",2024-03-06T02:59:11Z,2024-02-01 16:21:02+00:00
+account for the ""di-photon excess"".","{'Xiao-Yu Zheng', 'Jiao Ma', 'Hai-Bin Zhang', 'Tai-Fu Feng', 'Chang-Xin Liu', 'Yang Zhou'}",2024-03-06T02:59:11Z,2024-02-01 16:21:02+00:00
 jettiness formulation of the minnlo$_{\text{ps}}$ method,"We present a new formulation of the MINNLO method to match NNLO QCD
 calculations with parton showers by using jettiness as a resummation variable.
 The full derivation for colour-singlet processes is presented using
@@ -195,7 +195,7 @@ MINNLO formulation using the transverse momentum of the colour singlet as
 resummation variable are discussed. We further present a comparison of MINNLO
 predictions with GENEVA. Finally, we extend the formulation of the MINNLO
 method to 1-jettiness which is applicable to processes with a colour singlet
-plus one jet in the final state.","{'Markus Ebert', 'Marius Wiesemann', 'Giulia Zanderighi', 'Luca Rottoli', 'Silvia Zanoli'}",2024-02-01T13:45:18Z,2024-02-01 13:45:18+00:00
+plus one jet in the final state.","{'Giulia Zanderighi', 'Marius Wiesemann', 'Silvia Zanoli', 'Markus Ebert', 'Luca Rottoli'}",2024-02-01T13:45:18Z,2024-02-01 13:45:18+00:00
 "explaining the $γγ+x$ excesses at $\approx$151.5 gev via the
   drell-yan production of a higgs triplet","The multi-lepton anomalies and searches for the associated production of a
 narrow resonance indicate the existence of a $\approx$151 GeV Higgs with a
@@ -214,7 +214,7 @@ correlated. We find that the ones most sensitive to the Drell-Yan production of
 the triplet Higgs show consistent excesses at a mass of $\approx$151.5 GeV.
 Combining these channels in a likelihood ratio test, a non-zero
 Br$[\Delta^0\to\gamma\gamma] = 0.66\%$ is preferred by $\approx$3$\sigma$,
-supporting our conjecture.","{'Andreas Crivellin', 'Guglielmo Coloretti', 'Sumit Banik', 'Bruce Mellado', 'Saiyad Ashanujjaman', 'Siddharth P. Maharathy'}",2024-01-31T19:00:00Z,2024-01-31 19:00:00+00:00
+supporting our conjecture.","{'Andreas Crivellin', 'Sumit Banik', 'Guglielmo Coloretti', 'Saiyad Ashanujjaman', 'Bruce Mellado', 'Siddharth P. Maharathy'}",2024-01-31T19:00:00Z,2024-01-31 19:00:00+00:00
 bottomonium suppression in 5.02 and 8.16 tev p-pb collisions,"We compute the suppression of Upsilon(1S), Upsilon(2S), and Upsilon(3S)
 states in p-Pb collisions relative to pp collisions, including nuclear parton
 distribution function (nPDF) effects, coherent energy loss, momentum
@@ -229,7 +229,7 @@ open quantum system framework formulated within potential nonrelativistic
 quantum chromodynamics. We find that inclusion of all these effects provides a
 reasonable description of experimental data from the ALICE, ATLAS, CMS, and
 LHCb collaborations for the suppression of Upsilon(1S), Upsilon(2S), and
-Upsilon(3S) as a function of both transverse momentum and rapidity.","{'Sabin Thapa', 'Ramona Vogt', 'Michael Strickland'}",2024-01-30T03:07:39Z,2024-01-30 03:07:39+00:00
+Upsilon(3S) as a function of both transverse momentum and rapidity.","{'Sabin Thapa', 'Michael Strickland', 'Ramona Vogt'}",2024-01-30T03:07:39Z,2024-01-30 03:07:39+00:00
 "detecting highly collimated photon-jets from higgs boson exotic decays
   with deep learning","Recently, there has been a growing focus on the search for anomalous objects
 beyond standard model (BSM) signatures at the Large Hadron Collider (LHC). This
@@ -248,7 +248,7 @@ within the SM backgrounds. Our models attain an identification efficiency
 exceeding $99\%$ for photon-jets, coupled with a rejection rate surpassing
 $99\%$ for SM backgrounds. Furthermore, the sensitivities for searching
 photon-jet signatures from the Higgs boson exotic decays at the High-Luminosity
-LHC are obtained.","{'Chih-Ting Lu', 'William Y. Feng', 'Ke Li', 'Xiaocong Ai', 'Shih-Chieh Hsu'}",2024-01-28T16:22:29Z,2024-01-28 16:22:29+00:00
+LHC are obtained.","{'Chih-Ting Lu', 'Xiaocong Ai', 'Ke Li', 'William Y. Feng', 'Shih-Chieh Hsu'}",2024-01-28T16:22:29Z,2024-01-28 16:22:29+00:00
 early matter domination at colliders: long live the glueball!,"We prove that collider searches for long-lived particles (LLPs) can test the
 dynamics responsible for matter domination in the early universe. In this
 letter we concentrate on the specific example of glueballs from a GeV-scale
@@ -257,7 +257,7 @@ by their decay. We then show that searches for long-lived glueballs from Higgs
 decays test increasing values of dilution at ATLAS and CMS, CODEX-b, ANUBIS and
 MATHUSLA. We identify the general features that make models of early matter
 domination discoverable via LLPs at colliders. Our study provides a
-quantitative physics motivation to test longer lifetimes.","{'Filippo Sala', 'Kai Schmidt-Hoberg', 'Fady Bishara'}",2024-01-22T19:00:00Z,2024-01-22 19:00:00+00:00
+quantitative physics motivation to test longer lifetimes.","{'Fady Bishara', 'Kai Schmidt-Hoberg', 'Filippo Sala'}",2024-01-22T19:00:00Z,2024-01-22 19:00:00+00:00
 diffraction and elastic scattering at the lhc,"Several LHC experiments exploit the high acceptance in the forward region.
 Most of them use the possibility of measuring the intact proton in an elastic
 event. This approach can enhance the purity of selecting jet-gap-jet events,
@@ -282,7 +282,7 @@ expansion and with the parameterisation of the PDF sets. The results at the
 integrated and differential fiducial cross-section level are shown for the LHC
 Run III center-of-mass energy of $\sqrt{s}=13.6$ TeV. Our findings are
 particularly relevant for precise measurements of the four top-quark fiducial
-cross sections and for the modelling of top-quark decays at the LHC.","{'Nikolaos Dimitrakopoulos', 'Malgorzata Worek'}",2024-01-19T13:20:03Z,2024-01-19 13:20:03+00:00
+cross sections and for the modelling of top-quark decays at the LHC.","{'Malgorzata Worek', 'Nikolaos Dimitrakopoulos'}",2024-01-19T13:20:03Z,2024-01-19 13:20:03+00:00
 "searches for fcnc and lepton flavour violating interactions of the top
   quark with the atlas detector","The LHC is a top quark factory and provides a unique opportunity to look for
 flavour changing neutral current or charged-lepton flavour violating
@@ -304,7 +304,7 @@ energy in the center of mass system in proton-proton and Pb-Pb collisions and
 on the mass region of the ALPs. Using four models with the parameters, which
 specify the Good-Walker eigenstates, we calculated the ALP production cross
 sections in proton-proton collisions for the single dissociation and
-diffractive dissociation components.","{'T. V. Obikhod', 'S. B. Chernyshenko'}",2024-01-12T19:24:18Z,2024-01-12 19:24:18+00:00
+diffractive dissociation components.","{'S. B. Chernyshenko', 'T. V. Obikhod'}",2024-01-12T19:24:18Z,2024-01-12 19:24:18+00:00
 transverse momentum balance of dijets in xe+xe collisions at the lhc,"We present a theoretical study of the medium modifications on the $p_{\rm T}$
 balance ($x_{\rm J}$) of dijets in Xe+Xe collisions at $\sqrt{s_{\rm NN}}=5.44$
 TeV. The initial production of dijets is carried out by the POWHEG+PYTHIA8
@@ -329,7 +329,7 @@ incl.}>\Delta \langle x_{\rm J} \rangle_{\rm c\bar{c}}>\Delta \langle x_{\rm J}
 \rangle_{\rm b\bar{b}}$. Moreover, $\rho_{\rm Xe, Pb}$, the ratios of nuclear
 modification factors of dijets in Xe+Xe to that in Pb+Pb, are calcualted, which
 indicates that the yield suppression of dijets in Pb+Pb is more pronounced than
-that in Xe+Xe due to the larger radius of the lead nucleus.","{'Shuwan Shen', 'Sa Wang', 'Ben-Wei Zhang', 'Yao Li'}",2024-01-03T12:17:24Z,2024-01-03 12:17:24+00:00
+that in Xe+Xe due to the larger radius of the lead nucleus.","{'Yao Li', 'Shuwan Shen', 'Sa Wang', 'Ben-Wei Zhang'}",2024-01-03T12:17:24Z,2024-01-03 12:17:24+00:00
 "explanation of the 95 gev $γγ$ and $b\bar{b}$ excesses in the
   minimal left-right symmetric model","We propose a simple interpretation of the $\gamma\gamma$ excesses reported by
 both CMS and ATLAS groups at 95 GeV together with the LEP excess in the
@@ -344,7 +344,7 @@ Model (SM) Higgs and the heavy charged bosons in the LRSM, depending on the
 $SU(2)_R\times U(1)_{B-L}$ symmetry breaking scale $v_R$. The complete allowed
 parameter space for explaining the 95 GeV excesses in this model can be probed
 with the high-precision measurements of the SM Higgs mixing with other scalars
-at the high-luminosity LHC and future Higgs factories.","{'P. S. Bhupal Dev', 'Rabindra N. Mohapatra', 'Yongchao Zhang'}",2024-01-30T00:19:48Z,2023-12-29 18:41:36+00:00
+at the high-luminosity LHC and future Higgs factories.","{'P. S. Bhupal Dev', 'Yongchao Zhang', 'Rabindra N. Mohapatra'}",2024-01-30T00:19:48Z,2023-12-29 18:41:36+00:00
 "combined explanation of lhc multi-lepton, di-photon and top-quark
   excesses","The LHC analyses of processes containing two or more leptons and missing
 energy, possibly in association with b-jets, show strong tensions with the
@@ -370,7 +370,7 @@ and A results in new physics pollution of Standard Model ttW and four-top cross
 sections, as preferred by the data. Furthermore, a positive shift in the W mass
 is naturally induced by the vacuum expectation value of the triplet and we show
 that the most relevant signal strengths of the 152GeV boson are compatible with
-the process $pp\to H\to \Delta^0S$ if S is allowed to decay invisibly.","{'Bruce Mellado', 'Andreas Crivellin', 'Guglielmo Coloretti'}",2023-12-28T19:00:00Z,2023-12-28 19:00:00+00:00
+the process $pp\to H\to \Delta^0S$ if S is allowed to decay invisibly.","{'Guglielmo Coloretti', 'Andreas Crivellin', 'Bruce Mellado'}",2023-12-28T19:00:00Z,2023-12-28 19:00:00+00:00
 light-by-light scattering at next-to-leading order in qcd and qed,"The recent experimental observation of Light-by-Light (LbL) scattering at the
 Large Hadron Collider has revived interest in this fundamental process, and
 especially of the accurate prediction of its cross-section, which we present
@@ -387,7 +387,7 @@ high-energy regime, thus emphasizing the importance of including the full mass
 dependence at NLO. We also compare our results with the ATLAS measurement of
 LbL in ultra-peripheral lead-lead collisions, and find that the inclusion of
 exact NLO corrections reduces, but does not eliminate, the existing tension
-with theoretical predictions.","{'Hua-Sheng Shao', 'Ajjath A H', 'Ekta Chaubey', 'Mathijs Fraaije', 'Valentin Hirschi'}",2024-03-10T20:10:12Z,2023-12-28 11:00:15+00:00
+with theoretical predictions.","{'Mathijs Fraaije', 'Ekta Chaubey', 'Valentin Hirschi', 'Hua-Sheng Shao', 'Ajjath A H'}",2024-03-10T20:10:12Z,2023-12-28 11:00:15+00:00
 global lhc constraints on electroweak-inos with smodels v2.3,"Electroweak-inos, superpartners of the electroweak gauge and Higgs bosons,
 play a special role in supersymmetric theories. Their intricate mixing into
 chargino and neutralino mass eigenstates leads to a rich phenomenology, which
@@ -399,7 +399,7 @@ searches for which electroweak-ino efficiency maps are available in SModelS, we
 study which combinations maximise the sensitivity in different regions of the
 parameter space, how fluctuations in the data in individual analyses influence
 the global likelihood, and what is the resulting exclusion power of the
-combination compared to the analysis-by-analysis approach.","{'Théo Reymermier', 'Wolfgang Waltenberger', 'Sabine Kraml', 'Timothée Pascal', 'Sahana Narasimha', 'Andre Lessa', 'Mohammad Mahdi Altakach'}",2024-03-08T16:49:33Z,2023-12-27 16:40:45+00:00
+combination compared to the analysis-by-analysis approach.","{'Timothée Pascal', 'Théo Reymermier', 'Sahana Narasimha', 'Wolfgang Waltenberger', 'Sabine Kraml', 'Mohammad Mahdi Altakach', 'Andre Lessa'}",2024-03-08T16:49:33Z,2023-12-27 16:40:45+00:00
 a 95 gev higgs boson in the georgi-machacek model,"CMS and ATLAS have reported small excesses in the search for low-mass Higgs
 bosons in the di-photon decay channel at exactly the same mass, $95.4~$GeV.
 These searches rely on improved analysis techniques, enhancing in particular
@@ -419,13 +419,13 @@ about $95~$GeV within the GM model would imply good prospects of the searches
 for additional light Higgs bosons. In particular, the observed excess in the
 di-photon channel would be expected to be correlated in the GM model with a
 light doubly-charged Higgs boson in the mass range between $100~$GeV and
-$200~$GeV, which motivates dedicated searches in upcoming LHC Runs.","{'Cheng-Wei Chiang', 'Ting-Kuo Chen', 'Georg Weiglein', 'Sven Heinemeyer'}",2023-12-20T18:06:56Z,2023-12-20 18:06:56+00:00
+$200~$GeV, which motivates dedicated searches in upcoming LHC Runs.","{'Ting-Kuo Chen', 'Sven Heinemeyer', 'Georg Weiglein', 'Cheng-Wei Chiang'}",2023-12-20T18:06:56Z,2023-12-20 18:06:56+00:00
 staying on top of smeft-likelihood analyses,"We present a new global SMEFT analysis of LHC data in the top sector. After
 updating our set of measurements, we show how public ATLAS likelihoods can be
 incorporated in an external global analysis and how our analysis benefits from
 the additional information. We find that, unlike for the Higgs and electroweak
 sector, the SMEFT analysis of the top sector is mostly limited by the
-correlated theory uncertainties.","{'Maeve Madigan', 'Tilman Plehn', 'Nina Elmer', 'Nikita Schmal'}",2023-12-19T19:00:01Z,2023-12-19 19:00:01+00:00
+correlated theory uncertainties.","{'Maeve Madigan', 'Nina Elmer', 'Tilman Plehn', 'Nikita Schmal'}",2023-12-19T19:00:01Z,2023-12-19 19:00:01+00:00
 "the impact of lhc jet and $z$ $p_t$ data at up to approximate n${}^3$lo
   order in the msht global pdf fit","We present an analysis of two key sets of data constraining the high $x$
 gluon at up to approximate N${}^3$LO in QCD within the MSHT global PDF fitting
@@ -458,7 +458,7 @@ corrections to this interference beyond the leading-order approximation in
 perturbative QCD and find that, while differing numerically from the
 corresponding effects on the more studied $gg \! \to \! \gamma \gamma$ signal,
 they are generally rather small. As such, they do not impact significantly the
-interpretation of the present measurements of the $H \to Z \gamma$ decay mode.","{'Federica Devoto', 'Lorenzo Tancredi', 'Federico Buccioni', 'Jérémie Quevillon', 'Abdelhak Djouadi', 'John Ellis'}",2023-12-19T18:18:41Z,2023-12-19 18:18:41+00:00
+interpretation of the present measurements of the $H \to Z \gamma$ decay mode.","{'Federica Devoto', 'John Ellis', 'Lorenzo Tancredi', 'Abdelhak Djouadi', 'Jérémie Quevillon', 'Federico Buccioni'}",2023-12-19T18:18:41Z,2023-12-19 18:18:41+00:00
 "fully-heavy hadronic molecules $b_c^{(*)+} b_c^{(*)-}$ bound by
   fully-heavy mesons","A lot of exotic hadrons were reported in the past twenty years, which bring
 us the renaissance of the hadron spectroscopy. Most of them can be understood
@@ -493,7 +493,7 @@ into double $J/\psi$, and find that the ratio ($\mathcal{R}$) of the decay
 width for the light-hadron final states to that for the charmed final states
 differs significantly among different spin configurations, which can help to
 explore the nature of the observed di-$J/\psi$ resonances and fix the mixing
-angle for the $J^{PC}=0^{++}$ tetraquark.","{'Xue-Mei Mo', 'Yu-Peng Yan', 'Hong-Fei Zhang'}",2023-12-17T23:56:45Z,2023-12-17 23:56:45+00:00
+angle for the $J^{PC}=0^{++}$ tetraquark.","{'Yu-Peng Yan', 'Hong-Fei Zhang', 'Xue-Mei Mo'}",2023-12-17T23:56:45Z,2023-12-17 23:56:45+00:00
 constraining 2hdm+s model through w-boson mass measurements,"Following a discussion on $W$-boson mass observed at the CDF and ATLAS, we
 explore the parameter space allowed in the 2HDM+$S$ model. Further, the model
 parameter space is constrained through vector-like leptons via muon $g-2$
@@ -501,7 +501,7 @@ measurements. We show our results for additional scalar mass fixed to $m_S
 \approx 95$ and $150$~GeV keeping the standard Higgs-boson mass at 125~GeV in
 all four types of 2HDM+$S$ model. The chosen mass of the singlet scalar is
 motivated by the excesses seen at the CMS and ATLAS data in proton-proton
-collisions at the Large Hadron Collider.","{'Anza-Tshilidzi Mulaudzi', 'Mukesh Kumar', 'Ashok Goyal', 'Bruce Mellado'}",2023-12-14T10:46:32Z,2023-12-14 10:46:32+00:00
+collisions at the Large Hadron Collider.","{'Anza-Tshilidzi Mulaudzi', 'Bruce Mellado', 'Mukesh Kumar', 'Ashok Goyal'}",2023-12-14T10:46:32Z,2023-12-14 10:46:32+00:00
 "the future muon collider for the research of the anomalous neutral
   quartic $zγγγ$, $zzγγ$, and $zzzγ$ couplings","In the post-LHC era, the muon collider represents a frontier project capable
 of providing high-energy and high-luminosity leptonic collisions among future
@@ -518,7 +518,7 @@ L}=10$ $\rm ab^{-1}$, and systematic uncertainties of $\delta_{sys}=0\%, 3\%,
 {T,j}/\Lambda^4$ couplings at $95\%$ confidence level, are of the order of
 ${\cal O}(10^{-4}- 10^{-3})$. Compared with the research of the ATLAS and CMS
 Collaborations on the anomalous quartic gauge couplings, we find that the
-high-luminosity future muon collider could have better sensitivity.","{'A. Gutiérrez-Rodríguez', 'E. Gurkanli', 'M. Köksal', 'M. A. Hernández-Ruíz', 'V. Ari', 'V. Cetinkaya'}",2023-12-11T12:22:34Z,2023-12-11 12:22:34+00:00
+high-luminosity future muon collider could have better sensitivity.","{'A. Gutiérrez-Rodríguez', 'M. A. Hernández-Ruíz', 'E. Gurkanli', 'V. Cetinkaya', 'V. Ari', 'M. Köksal'}",2023-12-11T12:22:34Z,2023-12-11 12:22:34+00:00
 331 models and bilepton searches at lhc,"Despite being remarkable predictive, the Standard Model leaves unanswered
 several important issues, which motivate an ongoing search for its extensions.
 One fashionable possibility are the so-called 331 models, where the electroweak
@@ -529,7 +529,7 @@ doubly-charged bileptons. We include for the first time all the relevant
 processes where VLQs contribute, and in particular the associate production
 VLQ-bilepton. Finally, we extract the bound on the bilepton mass, $m_Y>$ 1300
 GeV, from a reinterpretation of a recent ATLAS search for doubly-charged Higgs
-bosons in multi-lepton final states.","{'Giulia Ricciardi', 'Alberto Orso Maria Iorio', 'Roberta Calabrese', 'Natascia Vignaroli', 'Stefano Morisi'}",2024-01-31T11:32:54Z,2023-12-04 19:05:24+00:00
+bosons in multi-lepton final states.","{'Stefano Morisi', 'Roberta Calabrese', 'Alberto Orso Maria Iorio', 'Natascia Vignaroli', 'Giulia Ricciardi'}",2024-01-31T11:32:54Z,2023-12-04 19:05:24+00:00
 "simple lévy-$α$ stable model analysis of elastic $pp$ and $p\bar
   p$ low-$|t|$ data from sps to lhc energies","A simple L\'evy-$\alpha$ stable (SL) model is used to describe the data on
 elastic $pp$ and $p\bar p$ scattering at low-$|t|$ from SPS energies up to LHC
@@ -544,7 +544,7 @@ and not in the shape of the distribution of the data as a function of $t$. We
 find that the slope parameter has different values for $pp$ and $p\bar p$
 elastic scattering at LHC energies. This may be the effect of the odderon
 exchange or the jump in the energy dependence of the slope parameter in the
-energy interval 3 GeV $\lesssim \sqrt s \lesssim$ 4 GeV.","{'I. Szanyi', 'S. Hegyi', 'T. Csörgő'}",2024-03-06T11:07:19Z,2023-12-04 04:36:05+00:00
+energy interval 3 GeV $\lesssim \sqrt s \lesssim$ 4 GeV.","{'I. Szanyi', 'T. Csörgő', 'S. Hegyi'}",2024-03-06T11:07:19Z,2023-12-04 04:36:05+00:00
 "differential $eμbb $ cross-sections and new higgses at the
   electroweak scale","ATLAS found that none of their Standard Model simulations can describe the
 measured differential lepton distributions in their $t \bar{t}$ analysis
@@ -553,7 +553,7 @@ a new physics contamination. We consider a benchmark model motivated by the
 indications for di-photon resonances: A heavy scalar decays into two lighter
 Higgs bosons with masses of 152\,GeV and 95\,GeV, with subsequent decay to $WW$
 and $bb$, respectively. In this setup, the description of data is improved by
-at least $5.6 \sigma$.","{'Sumit Banik', 'Bruce Mellado', 'Andreas Crivellin', 'Guglielmo Coloretti'}",2023-12-03T17:06:29Z,2023-12-03 17:06:29+00:00
+at least $5.6 \sigma$.","{'Guglielmo Coloretti', 'Andreas Crivellin', 'Sumit Banik', 'Bruce Mellado'}",2023-12-03T17:06:29Z,2023-12-03 17:06:29+00:00
 going beyond top eft,"We present a new way to interpret Top Standard Model measurements going
 beyond the SMEFT framework. Instead of the usual paradigm in Top EFT, where the
 main effects come from tails in momenta distributions, we propose an
@@ -579,7 +579,7 @@ neutrinos and photons. If the heavy neutrinos are long-lived, then searches for
 delayed, non-pointing photons can constrain the model. In this work, we carry
 out a detailed recast of an ATLAS search for such displaced photons, triggered
 by a charged lepton produced in association to the Higgs, placing bounds on the
-branching ratio for Higgs decay into two heavy neutrinos as low as 2%.","{'L. Duarte', 'J. Jones-Pérez', 'C. Manrique-Chavil'}",2023-11-29T19:00:00Z,2023-11-29 19:00:00+00:00
+branching ratio for Higgs decay into two heavy neutrinos as low as 2%.","{'J. Jones-Pérez', 'C. Manrique-Chavil', 'L. Duarte'}",2023-11-29T19:00:00Z,2023-11-29 19:00:00+00:00
 "dependence of the structure of the elastic scattering amplitude on
   mandelstam variables at high energies","Analysis of new experimental data obtained by the TOTEM and ATLAS
 Collaborations at the LHC together with old data obtained at the SPS and
@@ -602,7 +602,7 @@ excesses in precisely the region favoured by the soft-lepton analyses. We
 provide an up-to-date map of these results and show, among others, a best-fit
 point with a global excess greater than $2\sigma$ that is consistent with a
 higgsino-like LSP mass around 133 GeV. We finally comment on how such a point
-can be realised in the MSSM.","{'Mark D. Goodsell', 'Benjamin Fuks', 'Taylor Murphy', 'Diyar Agin'}",2023-11-28T19:00:01Z,2023-11-28 19:00:01+00:00
+can be realised in the MSSM.","{'Benjamin Fuks', 'Mark D. Goodsell', 'Diyar Agin', 'Taylor Murphy'}",2023-11-28T19:00:01Z,2023-11-28 19:00:01+00:00
 "structure of $cc \bar c \bar c$ tetraquarks and interpretation of lhc
   states","Motivated by recent experimental evidence for apparent $cc\bar c \bar c$
 states at LHCb, CMS and ATLAS, we consider how the mass spectrum and decays of
@@ -650,7 +650,7 @@ $\alpha_s(M_Z)$ sets used as input, some datasets point towards top-quark pole
 mass values lower by about $2\,\sigma$'s than those emerging from fitting other
 datasets, suggesting a possible tension between experimental measurements using
 different decay channels, and/or the need of better estimating uncertainties on
-the latter.","{'Javier Mazzitelli', 'Sven-Olaf Moch', 'Oleksandr Zenaiev', 'Maria Vittoria Garzelli'}",2023-12-05T21:07:06Z,2023-11-16 23:03:14+00:00
+the latter.","{'Javier Mazzitelli', 'Maria Vittoria Garzelli', 'Oleksandr Zenaiev', 'Sven-Olaf Moch'}",2023-12-05T21:07:06Z,2023-11-16 23:03:14+00:00
 "prospects for measuring quark polarization and spin correlations in
   $b\bar b$ and $c\bar c$ samples at the lhc","Polarization and spin correlations have been studied in detail for top quarks
 at the LHC, but have been explored very little for the other flavors of quarks.
@@ -682,7 +682,7 @@ hadronic events. This feature makes it an essential tool for future Higgs
 characterisation studies by the ATLAS and CMS collaborations. Utilising our new
 Monte Carlo code the numerical impact of NNLO$+$PS corrections on the kinematic
 distributions in $pp \to Zh \to \ell^+ \ell^- h$ production is explored,
-employing well-motivated SMEFT benchmark scenarios.","{'Rhorry Gauld', 'Ulrich Haisch', 'Luc Schnell'}",2023-11-10T15:17:37Z,2023-11-10 15:17:37+00:00
+employing well-motivated SMEFT benchmark scenarios.","{'Ulrich Haisch', 'Rhorry Gauld', 'Luc Schnell'}",2023-11-10T15:17:37Z,2023-11-10 15:17:37+00:00
 "top-quark pole mass extraction at nnlo accuracy, from total, single- and
   double-differential cross sections for $t\bar{t}+x$ production at the lhc","We extract the top-quark mass value in the on-shell renormalization scheme
 from the comparison of theoretical predictions for $pp \rightarrow t\bar{t} +
@@ -706,7 +706,7 @@ still compatible within $2.5 \sigma$ accuracy. Our results are compatible with
 the PDG 2022 top-quark pole-mass value. Our work opens the road towards more
 complex simultaneous NNLO fits of PDFs, the strong coupling $\alpha_s(M_Z)$ and
 the top-quark mass, using the currently most precise experimental data on
-$t\bar{t} + X$ total and multi-differential cross-sections from the LHC.","{'J. Mazzitelli', 'S. -O. Moch', 'O. Zenaiev', 'M. V. Garzelli'}",2023-11-21T18:51:25Z,2023-11-09 16:49:59+00:00
+$t\bar{t} + X$ total and multi-differential cross-sections from the LHC.","{'M. V. Garzelli', 'J. Mazzitelli', 'O. Zenaiev', 'S. -O. Moch'}",2023-11-21T18:51:25Z,2023-11-09 16:49:59+00:00
 polarised-boson pairs at the lhc with nlops accuracy,"We present a calculation of inclusive diboson (WZ, ZZ, WW) processes at the
 LHC in the presence of intermediate polarised weak bosons decaying
 leptonically, matching next-to-leading-order accuracy in QCD with parton-shower
@@ -715,7 +715,7 @@ on the helicity selection at the amplitude level, we have carried out the
 implementation in the POWHEG-BOX-RES framework, and validated it against
 independent fixed-order calculations. A phenomenological analysis in realistic
 LHC setups, as well as a comparison with recent ATLAS measurements, are
-presented.","{'Giovanni Pelliccioli', 'Giulia Zanderighi'}",2023-11-09T09:07:56Z,2023-11-09 09:07:56+00:00
+presented.","{'Giulia Zanderighi', 'Giovanni Pelliccioli'}",2023-11-09T09:07:56Z,2023-11-09 09:07:56+00:00
 "searches for new physics models via the same-sign diboson (ssdb) +
   ${e\!\!/}_{t}$ and precise measurement of top quark features at the lhc","Till today, although the Standard Model (SM) is the most celebrated theory
 that explains nature almost completely, there are still some phenomena observed
@@ -746,7 +746,7 @@ Moreover, we discuss the on-going development to include Higgs STXS data and
 SMEFT parametrizations in Lilith with the aim of performing global fits of the
 ATLAS and CMS data. As we point out, detailed information on Standard Model
 uncertainties and their correlations is important to enable the proper reuse of
-the experimental results.","{'Dang Bao Nhi Nguyen', 'Duc Ninh Le', 'Van Dung Le', 'Sabine Kraml', 'Quang Loc Tran'}",2024-01-08T07:29:11Z,2023-11-03 16:55:04+00:00
+the experimental results.","{'Duc Ninh Le', 'Van Dung Le', 'Dang Bao Nhi Nguyen', 'Sabine Kraml', 'Quang Loc Tran'}",2024-01-08T07:29:11Z,2023-11-03 16:55:04+00:00
 lifetime of the dark $z$ boson,"The mediator particle between the Standard Model sector and a hidden sector
 might have a long lifetime to show the observable displaced vertices in
 experiments. Considering a fermionic dark matter model in which the hidden
@@ -759,7 +759,7 @@ for the long-lived dark $Z$ boson can probe the mass range $7 < m_{Z'} <
 the SHiP experiment will probe $2 m_e < m_{Z'} < 15~{\rm MeV}$ range with $6
 \times 10^{20}$ protons on target in total 15 years. The dark matter
 phenomenology is also discussed in the region where such a long-lived mediator
-is detectable.","{'Dong-Won Jung', 'Kang Young Lee', 'Chaehyun Yu'}",2023-11-03T14:57:56Z,2023-11-03 14:57:56+00:00
+is detectable.","{'Dong-Won Jung', 'Chaehyun Yu', 'Kang Young Lee'}",2023-11-03T14:57:56Z,2023-11-03 14:57:56+00:00
 "resummation schemes for high-electric-charge objects leading to improved
   experimental mass limits","High-Electric-Charge compact Objects (HECOs) appear in several theoretical
 particle physics models beyond the Standard Model, and are actively searched
@@ -771,7 +771,7 @@ electric charge of the HECO, perturbative Quantum Electrodynamics calculations
 break down. In this work, we perform a Dyson-Schwinger resummation scheme (as
 opposed to lattice strong-coupling approach), which makes the computation of
 the pertinent HECO-production cross sections reliable, thus allowing us to
-extract improved mass bounds for such objects from ATLAS and MoEDAL searches.","{'Emanuela Musumeci', 'Vasiliki A. Mitsou', 'Jean Alexandre', 'Nick E. Mavromatos'}",2024-02-26T16:51:15Z,2023-10-26 15:00:23+00:00
+extract improved mass bounds for such objects from ATLAS and MoEDAL searches.","{'Emanuela Musumeci', 'Jean Alexandre', 'Nick E. Mavromatos', 'Vasiliki A. Mitsou'}",2024-02-26T16:51:15Z,2023-10-26 15:00:23+00:00
 "prospects for detecting long-lived particles at the large hadron
   collider","This thesis summarises four years of research aiming at revealing the
 prospects for detection of long-lived particles at the LHC. It contains results
@@ -806,7 +806,7 @@ providing novel signatures involving hadronically quiet displaced multi-lepton
 final states. Such signatures to probe the model are studied at the 14 and 27
 TeV LHC, as well as the 100 TeV FCC-hh. In addition to being detectable at the
 CMS/ATLAS experiments, if the new particles have sub-100 GeV masses, signals
-can also be seen at the proposed MATHUSLA detector.","{'Mariana Frank', 'Priyotosh Bandyopadhyay', 'Snehashis Parashar', 'Chandrima Sen'}",2023-10-13T06:31:56Z,2023-10-13 06:31:56+00:00
+can also be seen at the proposed MATHUSLA detector.","{'Mariana Frank', 'Snehashis Parashar', 'Priyotosh Bandyopadhyay', 'Chandrima Sen'}",2023-10-13T06:31:56Z,2023-10-13 06:31:56+00:00
 "95 gev diphoton and $b \bar{b}$ excesses in the general next-to-minimal
   supersymmetric standard model","The CMS and ATLAS collaborations recently published their results searching
 for light Higgs bosons, using the complete Run 2 data of the LHC. Both reported
@@ -824,7 +824,7 @@ data, the dark matter relic abundance and direct detection experiments, and the
 collider searches for supersymmetry and extra Higgs bosons. Although the
 explanations are scarcely affected by present Higgs data and the LHC search for
 supersymmetry, the dark matter physics may leave footprints on them. We also
-survey the other signals of the light Higgs boson at the LHC.","{'Junjie Cao', 'Jingwei Lian', 'Xinglong Jia', 'Lei Meng'}",2023-10-20T03:33:40Z,2023-10-12 15:58:58+00:00
+survey the other signals of the light Higgs boson at the LHC.","{'Xinglong Jia', 'Jingwei Lian', 'Lei Meng', 'Junjie Cao'}",2023-10-20T03:33:40Z,2023-10-12 15:58:58+00:00
 "the right-handed slepton bulk region for dark matter in generalized
   no-scale $\mathcal{f}$-$su(5)$ with effective super-natural supersymmetry","We propose Generalized No-Scale Supergravity, the simplest scenario for
 Effective Super-Natural Supersymmetry, naturally solving the supersymmetry
@@ -832,7 +832,7 @@ electroweak fine-tuning problem and including natural dark matter. A light
 right-handed slepton bulk region is realized in $\mathcal{F}$-$SU(5)$ and the
 pMSSM. The bulk may be beyond the LHC reach, though can be probed at the
 1000-day LUX-ZEPLIN, Future Circular Collider (FCC-ee) at CERN, Circular
-Electron Positron Collider (CEPC), and Hyper-Kamiokande.","{'Xiangwei Yin', 'James A. Maxin', 'Dimitri V. Nanopoulos', 'Tianjun Li'}",2023-10-18T02:57:18Z,2023-10-05 16:00:10+00:00
+Electron Positron Collider (CEPC), and Hyper-Kamiokande.","{'Xiangwei Yin', 'Dimitri V. Nanopoulos', 'James A. Maxin', 'Tianjun Li'}",2023-10-18T02:57:18Z,2023-10-05 16:00:10+00:00
 "significance of the negative binomial distribution in multiplicity
   phenomena","The negative binomial distribution (NBD) has been theorized to express a
 scale-invariant property of many-body systems and has been consistently shown
@@ -875,7 +875,7 @@ implications of this excess, and discuss the detectability prospects for the
 associated gravitational wave signal from the FOEWPT. Furthermore, we project
 the sensitivity reach of the $\ell^+ \ell^- t \bar{t}$ signature for the
 upcoming runs of the LHC. Finally, we introduce the python package thdmTools, a
-state-of-art tool for the exploration of the 2HDM.","{'Kateryna Radchenko', 'Jose Miguel No', 'Georg Weiglein', 'Thomas Biekötter', 'María Olalla Olea Romacho', 'Sven Heinemeyer'}",2024-03-11T13:32:44Z,2023-09-29 17:42:05+00:00
+state-of-art tool for the exploration of the 2HDM.","{'Thomas Biekötter', 'Sven Heinemeyer', 'Georg Weiglein', 'Kateryna Radchenko', 'Jose Miguel No', 'María Olalla Olea Romacho'}",2024-03-11T13:32:44Z,2023-09-29 17:42:05+00:00
 "software citation in hep: current state and recommendations for the
   future","In November 2022, the HEP Software Foundation and the Institute for Research
 and Innovation for Software in High-Energy Physics organized a workshop on the
@@ -891,7 +891,7 @@ organizations (ROOT, Scikit-HEP, MCnet), and perspectives were given from
 publishers (Elsevier, JOSS) and related tool providers (INSPIRE, Zenodo). This
 paper summarizes key findings and recommendations from the workshop as
 presented at the 26th International Conference on Computing in High Energy and
-Nuclear Physics (CHEP 2023).","{'Daniel S. Katz', 'Graeme A. Stewart', 'Matthew Feickert', 'Elizabeth Sexton-Kennedy', 'Mark S. Neubauer'}",2024-01-04T17:55:08Z,2023-09-25 22:53:02+00:00
+Nuclear Physics (CHEP 2023).","{'Elizabeth Sexton-Kennedy', 'Matthew Feickert', 'Daniel S. Katz', 'Graeme A. Stewart', 'Mark S. Neubauer'}",2024-01-04T17:55:08Z,2023-09-25 22:53:02+00:00
 "a precise determination of the strong-coupling constant from the recoil
   of $z$ bosons with the atlas experiment at $\sqrt{s} = 8$ tev","The coupling constant of the strong force is determined from the
 transverse-momentum distribution of $Z$ bosons produced in 8 TeV proton-proton
@@ -918,7 +918,7 @@ nearly independent of the dark neutrino masses, while the $5\sigma$ discovery
 is possible at a branching ratio of $0.3\%$. Interpreting these results in
 terms of constraints on the mixing parameters $|\varepsilon_{id}|^2$ between SM
 neutrinos and the dark neutrino, it is expected to have a factor of 10
-improvement from current constraints.","{'Masaya Ishino', 'Simon Thor', 'Junping Tian'}",2023-10-02T20:29:08Z,2023-09-20 12:26:46+00:00
+improvement from current constraints.","{'Simon Thor', 'Junping Tian', 'Masaya Ishino'}",2023-10-02T20:29:08Z,2023-09-20 12:26:46+00:00
 detecting high-energy neutrinos from galactic supernovae with atlas,"We show that ATLAS, a collider detector, can measure the flux of high-energy
 supernova neutrinos, which can be produced from days to months after the
 explosion. Using Monte Carlo simulations for predicted fluxes, we find at most
@@ -927,7 +927,7 @@ events from a supernova 10 kpc away. Possible Galactic supernovae from
 Betelgeuse and Eta Carinae are further analyzed as demonstrative examples. We
 argue that even with limited statistics, ATLAS has the ability to discriminate
 among flavors and between neutrinos and antineutrinos, making it an unique
-neutrino observatory so far unmatched in this capability.","{'Alex Y. Wen', 'Kohta Murase', 'Ali Kheirandish', 'Carlos A. Argüelles'}",2024-01-17T02:51:09Z,2023-09-18 13:52:25+00:00
+neutrino observatory so far unmatched in this capability.","{'Kohta Murase', 'Ali Kheirandish', 'Alex Y. Wen', 'Carlos A. Argüelles'}",2024-01-17T02:51:09Z,2023-09-18 13:52:25+00:00
 additional higgs bosons near 95 and 650 gev in the nmssm,"Hints for an additional Higgs boson with a mass of about 95 GeV originate
 from LEP and searches in the diphoton channel by CMS and ATLAS. A search for
 resonant production of SM plus BSM Higgs bosons in the diphoton plus bb channel
@@ -937,7 +937,7 @@ interpreted simultaneously within the NMSSM subject to the latest constraints
 on couplings of the SM Higgs boson, on extra Higgs bosons from the LHC, and on
 dark matter direct detection cross sections. We find that the hints for a 95
 GeV Higgs boson in the diphoton channel by CMS and ATLAS and in the diphoton
-plus bb channel by CMS can be fitted simultaneously within the 2 sigma level.","{'Ulrich Ellwanger', 'Cyril Hugonie'}",2023-12-01T16:53:55Z,2023-09-14 16:32:00+00:00
+plus bb channel by CMS can be fitted simultaneously within the 2 sigma level.","{'Cyril Hugonie', 'Ulrich Ellwanger'}",2023-12-01T16:53:55Z,2023-09-14 16:32:00+00:00
 "analysis of final state lepton polarization-dependent observables in
   $h\to \ell^{+}\ell^{-} γ$ in the sm at loop level","Recently, the CMS and ATLAS collaborations have announced the results for
 $H\rightarrow Z[\rightarrow \ell^{+}\ell^{-}]\gamma$ with $\ell=e$ or $\mu$
@@ -964,7 +964,7 @@ observable, the ratio of decay rates $R^{\ell\ell'}_{i\pm}$, where $\ell$ and
 $\ell'$ refer to different final state lepton generations. Precise measurements
 of these observables at the HL-LHC and the planned $e^{+}e^{-}$ can provide a
 fertile ground to test not only the SM but also to examine the signatures of
-possible NP beyond the SM.","{'Usman Hasan', 'Shahin Iqbal', 'M. Junaid', 'Ishtiaq Ahmed', 'A. Uzair', 'Bilal Tariq'}",2024-01-24T07:41:02Z,2023-09-14 06:10:26+00:00
+possible NP beyond the SM.","{'Shahin Iqbal', 'Ishtiaq Ahmed', 'M. Junaid', 'A. Uzair', 'Usman Hasan', 'Bilal Tariq'}",2024-01-24T07:41:02Z,2023-09-14 06:10:26+00:00
 cdf w mass anomaly revisited,"The CDF, ATLAS and LHCb have released the measurements on the W boson mass
 $m_W$ at $\sqrt{S}=1.96, 7, 13 TeV$, respectively. The measured values show the
 declining tendency, namely $m_W$ decreases with the increment of the collider
@@ -988,7 +988,7 @@ disappearing tracks, soft leptons, trileptons, and hadronic diboson events in
 order to predict LHC coverage of the $(\mu,M_2)$ mass plane at integrated
 luminosities of up to $3\,\text{ab}^{-1}$. Altogether, the full run of the
 HL-LHC can exclude much of the ""natural"" ($\mu,M_2 <$ 500 GeV) wino-higgsino
-parameter space.","{'Junichiro Kawamura', 'Humberto Gilmer', 'Linda M. Carpenter', 'Taylor Murphy'}",2024-01-11T16:22:03Z,2023-09-13 18:00:00+00:00
+parameter space.","{'Humberto Gilmer', 'Junichiro Kawamura', 'Taylor Murphy', 'Linda M. Carpenter'}",2024-01-11T16:22:03Z,2023-09-13 18:00:00+00:00
 searching for sbottom lsp at the lhc,"Assuming that the sbottom is the lightest supersymmetric particle (LSP), we
 carry out an analysis of the relevant signals expected at the LHC. The
 discussion is established in the framework of the $\mu\nu$SSM, where the
@@ -1005,7 +1005,7 @@ $\mu\nu$SSM for a right sbottom LSP, paying special attention to reproduce the
 current experimental data on neutrino and Higgs physics, as well as flavor
 observables. For displaced (prompt) decays, our results translate into lower
 limits on the mass of the right sbottom LSP of about $1041$ GeV ($1070$ GeV).
-The largest possible value found for the decay length is about $3.5$ mm.","{'Paulina Knees', 'Iñaki Lara', 'Carlos Muñoz', 'Essodjolo Kpatcha', 'Daniel E. López-Fogliani'}",2024-01-24T13:13:49Z,2023-09-12 13:05:06+00:00
+The largest possible value found for the decay length is about $3.5$ mm.","{'Iñaki Lara', 'Daniel E. López-Fogliani', 'Paulina Knees', 'Essodjolo Kpatcha', 'Carlos Muñoz'}",2024-01-24T13:13:49Z,2023-09-12 13:05:06+00:00
 an introduction to the parton and hadron cascade model paciae 3.0,"We introduce a parton and hadron cascade model PACIAE 3.0 based on PYTHIA
 6.428 and the PACIAE 2.2 program series. The simulation framework of C-, B-,
 and A-loops are designed for the high energy ($\sqrt{s_{NN}}\geq 3$ GeV) and
@@ -1020,7 +1020,7 @@ ATLAS, and CMS collaborations. We have extensively modified the
 phenomenological coalescence hadronization model. The PACIAE 3.0 model
 simulated results of particle yield, transverse momentum distribution, and
 rapidity distribution well reproduce, respectively, the experimental data
-measured at FOPI, E895, RHIC, and LHC energies.","{'Zhi-Lei She', 'Liang Zheng', 'Dai-Mei Zhou', 'Gao-Chan Yong', 'Xiao-Mei Li', 'An-Ke Lei', 'Gang Chen', 'Yu-Liang Yan', 'Ben-Hao Sa', 'Xu Cai'}",2023-09-10T18:34:05Z,2023-09-10 18:34:05+00:00
+measured at FOPI, E895, RHIC, and LHC energies.","{'Yu-Liang Yan', 'Xiao-Mei Li', 'Gao-Chan Yong', 'Zhi-Lei She', 'Ben-Hao Sa', 'Dai-Mei Zhou', 'Xu Cai', 'Gang Chen', 'An-Ke Lei', 'Liang Zheng'}",2023-09-10T18:34:05Z,2023-09-10 18:34:05+00:00
 "search for nonextensivity in electron-proton interactions at $\sqrt{s}$
   = 300 gev","Study of canonical entropy in electron-proton interactions at $\sqrt{s}$ =
 300 GeV is presented. The precision data collected by the H1 experiment at the
@@ -1037,7 +1037,7 @@ LHC have studied the charged hadron transverse momentum and particle
 distributions in proton-proton and proton-nucleus interactions by using the
 Tsallis function within this approach. A detailed investigation into the role
 of the system volume and relation amongst different dynamical parameters
-reveals interesting results.","{'Soumya Sarkar', 'R. Aggarwal', 'M. Kaur'}",2024-02-27T17:56:02Z,2023-09-07 13:38:54+00:00
+reveals interesting results.","{'M. Kaur', 'Soumya Sarkar', 'R. Aggarwal'}",2024-02-27T17:56:02Z,2023-09-07 13:38:54+00:00
 "'fat-brane' universal extra dimension model confronted with the atlas
   multi-jet and photonic searches at 13 tev lhc","The current status of `fat-brane' minimal Universal Extra Dimensions
 (fat-mUED) is studied in the light of ATLAS experiment's recent reports. At the
@@ -1058,7 +1058,7 @@ inverse-femtobarn of data; (i) multi-jet and (ii) photon and jets with missing
 energy. In both searches, the results showed no substantial deviation from the
 number of background events of the SM. Provided the absence of any number of
 excess events in both searches we constrained the parameters of the fat-mUED
-model, viz., the higher-dimensional Planck mass and the compactification scale.","{'Esra Akyumuk', 'Durmus Karabacak'}",2023-09-01T17:01:41Z,2023-09-01 17:01:41+00:00
+model, viz., the higher-dimensional Planck mass and the compactification scale.","{'Durmus Karabacak', 'Esra Akyumuk'}",2023-09-01T17:01:41Z,2023-09-01 17:01:41+00:00
 third order qcd predictions for fiducial w-boson production,"Measurements of W-boson production at the LHC have reached percent-level
 precision and impose challenging demands on theoretical predictions. Such
 predictions directly limit the precision of measurements of fundamental
@@ -1071,7 +1071,7 @@ and fiducial cross-section measurements at $\sqrt{s}=5.02\text{ TeV}$. We
 discuss in detail the impact of modern PDFs. Our calculation including the
 matching to W+jet production at NNLO will be publicly available the upcoming
 CuTe-MCFM release and allows for theory-data comparison at the state-of-the-art
-level.","{'Tobias Neumann', 'John Campbell'}",2023-08-29T15:23:22Z,2023-08-29 15:23:22+00:00
+level.","{'John Campbell', 'Tobias Neumann'}",2023-08-29T15:23:22Z,2023-08-29 15:23:22+00:00
 "h(650) -> w+w-/zz predicts h++ -> w+w+ and h+ -> zw+, as indicated by
   lhc data","Several indications for neutral scalars are observed at the LHC. One of them,
 a broad resonance peaked at about 650 GeV which we call H(650), was first
@@ -1097,7 +1097,7 @@ a scalar field content similar to the Georgi Machacek model with triplets, at
 variance with the models usually considered. Implications on precision
 measurements are presented followed by a complete extraction of the GM
 parameters. An alternate interpretation of the 650 GeV resonance as a tensor is
-also briefly discussed. Implications for precision measurements are presented.","{'Alain Le Yaouanc', 'François Richard'}",2024-03-05T15:56:10Z,2023-08-23 15:02:28+00:00
+also briefly discussed. Implications for precision measurements are presented.","{'François Richard', 'Alain Le Yaouanc'}",2024-03-05T15:56:10Z,2023-08-23 15:02:28+00:00
 nnlo+ps $w^+w^-$ production using jet veto resummation at nnll$'$,"We construct a novel event generator for the process $p \> p \to \ell^- \>
 \bar{\nu}_\ell \> \ell'^+ \> \nu_{\ell'}$, which matches fixed-order
 predictions at next-to-next-to-leading order in the strong coupling to a parton
@@ -1112,7 +1112,7 @@ showering. After validating our partonic results against publicly available
 fixed order and resummed calculations, we compare our predictions to
 measurements taken at the ATLAS and CMS experiments, finding good agreement.
 This is the first NNLO+PS accurate event generator to use the hardest jet
-transverse momentum as a resolution variable.","{'Alessandro Gavardi', 'Simone Alioli', 'Matthew A. Lim', 'Frank Tackmann'}",2023-08-22T17:27:53Z,2023-08-22 17:27:53+00:00
+transverse momentum as a resolution variable.","{'Alessandro Gavardi', 'Simone Alioli', 'Frank Tackmann', 'Matthew A. Lim'}",2023-08-22T17:27:53Z,2023-08-22 17:27:53+00:00
 "uncovering new higgses in the lhc analyses of differential $t\bar t$
   cross sections","Statistically significant tensions between the Standard Model (SM)
 predictions and the measured lepton distributions in differential top
@@ -1135,7 +1135,7 @@ results of the different SM predictions, a non-vanishing cross-section for
 $pp\to H\to SS^\prime\to b\bar b WW$ of $\approx\!13$pb is preferred. If
 $S^\prime$ is SM-like, this cross-section, at the same time explains the
 $95\,$GeV $\gamma\gamma$ excess, while the dominance of $S\to WW$ suggests that
-$S$ is the neutral component of the $SU(2)_L$ triplet with hypercharge~0.","{'Sumit Banik', 'Bruce Mellado', 'Andreas Crivellin', 'Guglielmo Coloretti'}",2023-08-15T18:00:01Z,2023-08-15 18:00:01+00:00
+$S$ is the neutral component of the $SU(2)_L$ triplet with hypercharge~0.","{'Guglielmo Coloretti', 'Andreas Crivellin', 'Sumit Banik', 'Bruce Mellado'}",2023-08-15T18:00:01Z,2023-08-15 18:00:01+00:00
 "current status on pair-produced muon-philic vectorlike leptons in
   multilepton channels at the lhc","In this work, we obtain the current limits on the pair production of
 vectorlike leptons decaying to a Standard Model gauge boson and a lepton in the
@@ -1166,7 +1166,7 @@ conducting experiments at the Giga-$Z$ ($10^{9}$ of $Z$ bosons) and Tera-$Z$
 ($10^{12}$ of $Z$ bosons) phases, which may probe the aforesaid rare decay
 processes, thus the model as well. These unconventional yet complementary
 searches offer different routes to explore the supersymmetric models with
-extended Higgs sectors like NMSSM.","{'Debottam Das', 'Subhadip Bisal'}",2023-08-12T13:04:02Z,2023-08-12 13:04:02+00:00
+extended Higgs sectors like NMSSM.","{'Subhadip Bisal', 'Debottam Das'}",2023-08-12T13:04:02Z,2023-08-12 13:04:02+00:00
 search for dark photons with the faser detector at the lhc,"The FASER experiment at the LHC is designed to search for light,
 weakly-interacting particles produced in proton-proton collisions at the ATLAS
 interaction point that travel in the far-forward direction. The first results
@@ -1193,12 +1193,12 @@ values of gauge coupling constants and extra $U(1)$ group charges of leptons or
 scalar doublets. In addition, if the leptonic Yukawa couplings are invariant
 under the extra $U(1)$ local gauge group, these contributions can be eliminated
 by redefining the gauge boson fields through eliminating the neutral currents
-involving charged leptons, even with nonzero kinetic mixing effects.","{'Sheng-Kai Cui', 'Tai-Fu Feng', 'Jin-Lei Yang', 'Zhao-Feng Ge', 'Xiu-Yi Yang'}",2023-08-16T08:45:29Z,2023-08-10 02:48:49+00:00
+involving charged leptons, even with nonzero kinetic mixing effects.","{'Sheng-Kai Cui', 'Tai-Fu Feng', 'Jin-Lei Yang', 'Xiu-Yi Yang', 'Zhao-Feng Ge'}",2023-08-16T08:45:29Z,2023-08-10 02:48:49+00:00
 contributions to $z^0$ decays from dark matter standard model extension,"We propose a Born-Infeld contribution to the $U(1)_{B-L}$ extension of the
 Standard Model to explain the anomalous decay of beryllium by the X17 neutral
 boson, its possible connections to dark matter and the observed MeV gamma-ray
 bursts. The decay width of the $Z^0$ decay into 3$X$ and 3$\gamma$ processes
-are computed, based on NA64 and ATLAS experiments data.","{'J. A. Helayël-Neto', 'D. O. R. Azevedo', 'O. M. Del Cima', 'M. L. Bispo'}",2024-01-18T13:40:12Z,2023-08-09 20:34:09+00:00
+are computed, based on NA64 and ATLAS experiments data.","{'D. O. R. Azevedo', 'M. L. Bispo', 'O. M. Del Cima', 'J. A. Helayël-Neto'}",2024-01-18T13:40:12Z,2023-08-09 20:34:09+00:00
 "light-by-light scattering in ultraperipheral collisions of heavy ions
   with future focal and alice 3 detectors","We discuss possible future studies of photon-photon (light-by-light)
 scattering using a planned FoCal and ALICE 3 detectors. We include different
@@ -1221,7 +1221,7 @@ a few orders of magnitude larger than for the current ATLAS or CMS experiments.
 We also consider the two-$\pi^0$ background which can, in principle, be
 eliminated at the new kinematical range for the ALICE 3 measurements by
 imposing dedicated cuts on di-photon transverse momentum and\or so-called
-vector asymmetry.","{'M. Klusek-Gawenda', 'P. Jucha', 'A. Szczurek'}",2023-08-18T19:26:45Z,2023-08-03 06:18:43+00:00
+vector asymmetry.","{'A. Szczurek', 'M. Klusek-Gawenda', 'P. Jucha'}",2023-08-18T19:26:45Z,2023-08-03 06:18:43+00:00
 measurement of the cpv higgs mixing angle in zz-fusion at 1 tev ilc,"Although the studies of tensor structure of the Higgs boson interactions with
 vector bosons and fermions at CMS and ATLAS experiments have established that
 the $J^{\mathrm{PC}}$ quantum numbers of the Higgs boson should be $0^{++}$,
@@ -1229,7 +1229,7 @@ small CP violation in the Higgs sector (up to 10% contribution of the CP-odd
 state) cannot be excluded with the current experimental precision. We review
 possibilities to measure CP violating mixing angle $\Psi_{\mathrm{CP}}$ between
 scalar and pseudoscalar states, at a linear electron-positron collider, at
-center-of-mass energy of 1 TeV.","{'N. Vukašinović', 'G. Kačarević', 'I. Božović-Jelisavčić'}",2023-07-31T09:30:30Z,2023-07-31 09:30:30+00:00
+center-of-mass energy of 1 TeV.","{'G. Kačarević', 'N. Vukašinović', 'I. Božović-Jelisavčić'}",2023-07-31T09:30:30Z,2023-07-31 09:30:30+00:00
 "about akm scaling and oscillations in elastic scattering at very small
   momentum transfer at the lhc","The ATLAS and TOTEM collaborations have measured the differential elastic
 cross section at centre-of mass energy $\sqrt{s}$=13 TeV and at small
@@ -1272,7 +1272,7 @@ $h$, $\hat Y_h^D$. We further present two minimal scenarios, one in which a
 single Yukawa coupling in the down sector, $(\hat Y_A^D)_{bb}$, gives the only
 significant contribution, and one in which two Yukawa couplings in the up
 sector, $(\hat Y_A^U)_{tt}$ and $(\hat Y_A^U)_{tc}$, give the only significant
-contributions, and we discuss possible tests of these scenarios.","{'Nicolás Bernal', 'Yosef Nir', 'Marta Losada', 'Yogev Shpilman'}",2023-10-11T22:06:08Z,2023-07-21 18:00:01+00:00
+contributions, and we discuss possible tests of these scenarios.","{'Nicolás Bernal', 'Yogev Shpilman', 'Marta Losada', 'Yosef Nir'}",2023-10-11T22:06:08Z,2023-07-21 18:00:01+00:00
 "probing the nature of electroweak symmetry breaking with higgs boson
   pairs in atlas","Constraints on the Higgs boson trilinear self-coupling modifier
 $\kappa_{\lambda}$ and non-SM HHVV coupling strength $\kappa_{2V}$ are set by
@@ -1305,7 +1305,7 @@ state at the onset of heavy ion collision. The outcomes of each approach are
 compared with the latest data from ALICE and ATLAS experiments spanning from
 2018 to 2022. This study aims to compare the degree of agreement between each
 approach and recently obtained experimental data, in the intermediate and high
-$P_T$ regions.","{'Kurosh Javidan', 'Marjan Rahimi Nezhad', 'Sharareh Mehrabi Pari', 'Fatemeh Taghavi Shahri'}",2024-01-10T16:20:54Z,2023-07-12 13:50:10+00:00
+$P_T$ regions.","{'Marjan Rahimi Nezhad', 'Sharareh Mehrabi Pari', 'Fatemeh Taghavi Shahri', 'Kurosh Javidan'}",2024-01-10T16:20:54Z,2023-07-12 13:50:10+00:00
 "transverse momentum dependent feed-down fractions for bottomonium
   production","We extract transverse momentum dependent feed-down fractions for bottomonium
 production using a data-driven approach. We use data published by the ATLAS,
@@ -1320,7 +1320,7 @@ of the feed-down fractions. When evaluated at the average momentum of the
 states, we find that approximately 75% of Upsilon(1S) and Upsilon(2S) states
 are produced directly. Our results for the transverse momentum dependent
 feed-down fractions are provided in tabulated form so that they can be used by
-other research groups.","{'Sabin Thapa', 'Michael Strickland', 'Jacob Boyd'}",2023-11-18T15:30:19Z,2023-07-07 21:21:59+00:00
+other research groups.","{'Jacob Boyd', 'Michael Strickland', 'Sabin Thapa'}",2023-11-18T15:30:19Z,2023-07-07 21:21:59+00:00
 tasi 2022 lectures on lhc experiments,"The field of experimental particle physics studies the fundamental particles
 and forces that constitute matter and radiation. Frequently the experimental
 tools used to enable this study are accelerators and detectors. The Large
@@ -1353,7 +1353,7 @@ uncertainties of the theoretical calculations, both the excited tetraquark and
 hadronic molecule may be considered as candidates to the resonance $X(7300)$.
 Detailed analysis, however, demonstrates that the preferable model for
 $X(7300)$ is an admixture of the molecule $\mathcal{M}$ and sizeable part of
-$X_{\mathrm{4c}}^{\ast}$.","{'B. Barsbay', 'S. S. Agaev', 'K. Azizi', 'H. Sundu'}",2023-10-26T18:16:21Z,2023-07-04 18:00:59+00:00
+$X_{\mathrm{4c}}^{\ast}$.","{'S. S. Agaev', 'K. Azizi', 'B. Barsbay', 'H. Sundu'}",2023-10-26T18:16:21Z,2023-07-04 18:00:59+00:00
 decay widths and mass spectra of single bottom baryons,"We develop a Hamiltonian model that incorporates the spin, spin-orbit, and
 isospin interactions to determine the masses of the ground states of
 single-bottom baryons and their excitations up to the $D$-wave. Furthermore, we
@@ -1373,7 +1373,7 @@ widths for each open flavor channel. Our predictions of mass spectra and decay
 widths provide valuable information for the experiments seeking to identify new
 bottom baryons and knowledge of possible decay channels can aid in their
 identification in the data. Therefore, our results will be able to guide future
-searches for the undiscovered single bottom baryons at LHCb, ATLAS, and CMS.","{'Ailier Rivero-Acosta', 'A. Giachino', 'H. García-Tecocoatzi', 'E. Santopinto', 'Carlos Alberto Vaquera-Araujo', 'A. Ramirez-Morales'}",2023-07-02T07:39:21Z,2023-07-02 07:39:21+00:00
+searches for the undiscovered single bottom baryons at LHCb, ATLAS, and CMS.","{'E. Santopinto', 'A. Giachino', 'A. Ramirez-Morales', 'H. García-Tecocoatzi', 'Ailier Rivero-Acosta', 'Carlos Alberto Vaquera-Araujo'}",2023-07-02T07:39:21Z,2023-07-02 07:39:21+00:00
 growing excesses of new scalars at the electroweak scale,"We combine searches for scalar resonances at the electroweak scale performed
 by the Large Hadron Collider experiments ATLAS and CMS where persisted excesses
 have been observed in recent years. Using both the side-bands of Standard Model
@@ -1388,7 +1388,7 @@ strongly favours the associated production of $S$, i.e. via the decay of a
 heavier boson $H$ ($pp\to H\to SS^*$). A possible alternative or complementary
 decay chain is $H\rightarrow SS^{\prime}$, where $S\to WW^*$ ($S^{\prime}$)
 would be the source of the leptons ($b$-quarks) necessary to explain the
-multi-lepton anomalies found in Large Hadron Collider data.","{'Mukesh Kumar', 'Andreas Crivellin', 'Yaquan Fang', 'Guglielmo Coloretti', 'Bruce Mellado', 'Srimoy Bhattacharya', 'Salah-Eddine Dahbi'}",2023-06-29T18:00:00Z,2023-06-29 18:00:00+00:00
+multi-lepton anomalies found in Large Hadron Collider data.","{'Srimoy Bhattacharya', 'Andreas Crivellin', 'Guglielmo Coloretti', 'Yaquan Fang', 'Bruce Mellado', 'Mukesh Kumar', 'Salah-Eddine Dahbi'}",2023-06-29T18:00:00Z,2023-06-29 18:00:00+00:00
 "precise predictions for the associated production of a $w$ boson with a
   top-antitop quark pair at the lhc","The production of a top-antitop quark pair in association with a $W$ boson
 ($t\bar tW$) is one of the heaviest signatures currently probed at the Large
@@ -1403,7 +1403,7 @@ approaches that lead to consistent results within their uncertainties. We
 combine the newly computed NNLO QCD corrections with the complete NLO QCD+EW
 results, thus obtaining the most advanced perturbative prediction available to
 date for the \ttW inclusive cross section. The tension with the latest ATLAS
-and CMS results remains at the $1\sigma-2\sigma$ level.","{'Simone Devoto', 'Massimiliano Grazzini', 'Chiara Savoini', 'Javier Mazzitelli', 'Stefan Kallweit', 'Luca Rottoli', 'Luca Buonocore'}",2023-12-07T14:56:13Z,2023-06-28 15:43:36+00:00
+and CMS results remains at the $1\sigma-2\sigma$ level.","{'Stefan Kallweit', 'Simone Devoto', 'Javier Mazzitelli', 'Chiara Savoini', 'Luca Buonocore', 'Luca Rottoli', 'Massimiliano Grazzini'}",2023-12-07T14:56:13Z,2023-06-28 15:43:36+00:00
 "the incompleteness of the experimental searches for vector-like leptons
   at cern","There are strong phenomenological arguments favoring the existence of
 vector-like leptons and quarks in nature. In spite of extensive studies
@@ -1413,7 +1413,7 @@ include all possible decay modes of vector-like leptons. Therefore, the
 analyses done so far are incomplete. In this letter, we highlight decay
 channels that are not covered by different experimental analyses, with a focus
 on L3, ATLAS, and CMS results. We argue that experimental analyses should be
-redone considering these shortcomings.","{'Saleh Sultansoy', 'Burak Dagli', 'Hatice Duran Yildiz', 'Feyza Baspehlivan'}",2023-11-07T12:45:39Z,2023-06-27 18:15:13+00:00
+redone considering these shortcomings.","{'Burak Dagli', 'Feyza Baspehlivan', 'Saleh Sultansoy', 'Hatice Duran Yildiz'}",2023-11-07T12:45:39Z,2023-06-27 18:15:13+00:00
 "searches for supersymmetric particles with prompt decays with the atlas
   detector","Supersymmetry (SUSY) provides elegant solutions to several problems in the
 Standard Model and searches for SUSY particles are an important component of
@@ -1454,7 +1454,7 @@ based asymmetries in the semileptonic top pair decays are presented as T-odd
 asymmetries in CMS experiment. Expected asymmetry values are determined at the
 detector level using MadGraph5, Pythia8 and Delphes softwares along with the
 discrimination of the signal and the background with Deep Neural Networks
-(DNN).","{'S. Salva', 'S. Güyer', 'E. Şimşek', 'F. Ilgın', 'M. Hüdaverdi', 'A. Hayreter', 'B. Işıldak'}",2023-06-20T16:59:27Z,2023-06-20 16:59:27+00:00
+(DNN).","{'M. Hüdaverdi', 'A. Hayreter', 'S. Güyer', 'E. Şimşek', 'B. Işıldak', 'F. Ilgın', 'S. Salva'}",2023-06-20T16:59:27Z,2023-06-20 16:59:27+00:00
 "reduce, reuse, reinterpret: an end-to-end pipeline for recycling
   particle physics results","Searches for new physics at the Large Hadron Collider have constrained many
 models of physics beyond the Standard Model. Many searches also provide
@@ -1468,7 +1468,7 @@ serialized probability models, is combined with common event generation and
 simulation toolkits MadGraph, Pythia8, and Delphes into workflows steered by
 TOML configuration files, and bundled into the mapyde python package. The use
 of mapyde is demonstrated by constraining previously untested SUSY models with
-compressed sleptons and electroweakinos using ATLAS results.","{'Mike Hance', 'Giordon Stark', 'Camila Aristimuno Ots'}",2024-01-31T23:57:41Z,2023-06-19 16:40:48+00:00
+compressed sleptons and electroweakinos using ATLAS results.","{'Camila Aristimuno Ots', 'Giordon Stark', 'Mike Hance'}",2024-01-31T23:57:41Z,2023-06-19 16:40:48+00:00
 "indirect search for lepton flavour violating signals at the future
   electron-proton colliders","The search for lepton flavor violation (LFV) is a powerful probe to look for
 new physics beyond the Standard Model. We explored the possibility of searches
@@ -1486,7 +1486,7 @@ LFV coupling is governed by vector or axial-vector coupling. For tensor or
 axial-tensor coupling these limits can be improved to $2.9\times 10^{-8}$ and
 $1.5\times 10^{-8}$ for LHeC and FCC-eh machines, respectively. The projected
 numbers improve significantly over the existing limit of $2.6\times 10^{-7}$
-set by ATLAS.","{'Anjan Kumar Barik', 'Tousik Samui', 'Atri Dey'}",2023-06-18T12:09:09Z,2023-06-18 12:09:09+00:00
+set by ATLAS.","{'Tousik Samui', 'Atri Dey', 'Anjan Kumar Barik'}",2023-06-18T12:09:09Z,2023-06-18 12:09:09+00:00
 "explanation of the hints for a 95 gev higgs boson within a 2-higgs
   doublet model","We suggest an explanation for and explore the consequences of the excess
 around 95 GeV in the di-photon and di-tau invariant mass distributions recently
@@ -1511,7 +1511,7 @@ in comparison to the SM value. Such an effect can be tested soon at the High
 Luminosity LHC (HL-LHC), which can either discover or exclude the scenario we
 suggest. This unique characteristic of the 2HDM Type-III makes this scenario
 with the 95 GeV resonance very attractive for further theoretical and
-experimental investigations at the (HL-)LHC and future colliders.","{'Manimala Chakraborti', 'Stefano Moretti', 'Mohammed Boukidi', 'Rachid Benbrik', 'Alexander Belyaev', 'Souad Semlali'}",2023-06-15T10:40:57Z,2023-06-15 10:40:57+00:00
+experimental investigations at the (HL-)LHC and future colliders.","{'Souad Semlali', 'Mohammed Boukidi', 'Manimala Chakraborti', 'Stefano Moretti', 'Rachid Benbrik', 'Alexander Belyaev'}",2023-06-15T10:40:57Z,2023-06-15 10:40:57+00:00
 quantum entanglement in top quark pair production,"Top quarks, the most massive particles in the standard model, attract
 considerable attention since they decay before hadronizing. This presents
 physicists with a unique opportunity to directly investigate their properties.
@@ -1544,7 +1544,7 @@ PDFs, and to compare the data pulls on the PDFs for various perturbative orders
 and functional forms. We also address the feasibility of computing the
 sensitivities using Monte Carlo error PDFs. Together with the article, we
 present a companion interactive website with a large collection of plotted L2
-sensitivities for eight recent PDF releases.","{'Keping Xie', 'Francesco Giuli', 'Joey Huston', 'Amanda Cooper-Sarkar', 'Robert S. Thorne', 'Xiaoxian Jing', 'Pavel Nadolsky', 'T. J. Hobbs', 'Thomas Cridge', 'Aurore Courtoy', 'Lucian Harland-Lang', 'C. -P. Yuan'}",2023-08-02T19:35:19Z,2023-06-06 18:00:02+00:00
+sensitivities for eight recent PDF releases.","{'Amanda Cooper-Sarkar', 'Xiaoxian Jing', 'Keping Xie', 'T. J. Hobbs', 'Thomas Cridge', 'Pavel Nadolsky', 'Lucian Harland-Lang', 'Joey Huston', 'Aurore Courtoy', 'Robert S. Thorne', 'Francesco Giuli', 'C. -P. Yuan'}",2023-08-02T19:35:19Z,2023-06-06 18:00:02+00:00
 the 95.4 gev di-photon excess at atlas and cms,"The ATLAS collaboration has recently reported the results of a low-mass
 Higgs-boson search in the di-photon final state based on the full Run 2 data
 set. The results are based on an improved analysis w.r.t. the previous
@@ -1561,7 +1561,7 @@ this result, updating a previous analysis based solely on the CMS Run 2 data.
 We demonstrate that the ATLAS/CMS combined di-photon excess can be interpreted
 as the lightest Higgs boson in a Two-Higgs doublet model that is extended by a
 complex singlet (S2HDM) of Yukawa types II and IV, while being in agreement
-with all other experimental and theoretical constraints.","{'T. Biekötter', 'S. Heinemeyer', 'G. Weiglein'}",2024-03-12T13:41:46Z,2023-06-06 17:47:28+00:00
+with all other experimental and theoretical constraints.","{'G. Weiglein', 'S. Heinemeyer', 'T. Biekötter'}",2024-03-12T13:41:46Z,2023-06-06 17:47:28+00:00
 a scotogenic explanation for the 95 gev excesses,"Several hints of the presence of a new state at about $95$ GeV have been
 observed recently. The CMS and ATLAS collaborations have reported excesses in
 the diphoton channel at about this diphoton invariant mass with local
@@ -1572,7 +1572,7 @@ intriguing hints of new physics in a variant of the Scotogenic model, an
 economical scenario that induces Majorana neutrino masses at the loop level and
 includes a viable dark matter candidate. We show that our model can naturally
 explain the 95 GeV excesses while respecting all experimental constraints and
-discuss other phenomenological predictions of our scenario.","{'Avelino Vicente', 'Pablo Escribano', 'Victor Martin Lozano'}",2023-06-06T14:52:30Z,2023-06-06 14:52:30+00:00
+discuss other phenomenological predictions of our scenario.","{'Victor Martin Lozano', 'Avelino Vicente', 'Pablo Escribano'}",2023-06-06T14:52:30Z,2023-06-06 14:52:30+00:00
 2hdm interpretations of the cms diphoton excess at 95 gev,"In both Run 1 and Run 2 of the LHC, the CMS collaboration has observed an
 excess of events in the searches for low-mass Higgs bosons in the diphoton
 final state at a mass of about 95 GeV. After a recent update of the
@@ -1593,7 +1593,7 @@ both the CMS diphoton and ditau excesses can be fitted is in tension with
 current constraints from the flavour sector, potentially calling for other
 new-physics contributions to flavour-physics observables, most notably $b \to
 s\gamma$ transitions. We also comment on the compatibility with the recent
-ATLAS di-photon searches.","{'Duarte Azevedo', 'Thomas Biekötter', 'P. M. Ferreira'}",2023-06-28T12:00:22Z,2023-05-31 10:10:47+00:00
+ATLAS di-photon searches.","{'Thomas Biekötter', 'P. M. Ferreira', 'Duarte Azevedo'}",2023-06-28T12:00:22Z,2023-05-31 10:10:47+00:00
 "investigation of higgs boson decaying to di-muon, dark matter produced
   in association with a higgs boson decaying to $b$-quarks and unbinned
   profiled unfolding","The discovery of the Standard Model (SM) Higgs boson by ATLAS and CMS at the
@@ -1654,7 +1654,7 @@ binding energies of these states are all below 10 MeV and the root mean square
 (RMS) are around 1.8 fm, which indicates that these states are likely to be
 molecular states. These predicted exotic states may provide new ideas for
 experimental searches and we expect more experimental and theoretical
-researches to study and understand the fully heavy states in future.","{'Hongxia Huang', 'Yuheng Wu', 'Jialun Ping', 'Xinmei Zhu', 'Ye Yan'}",2023-05-26T04:02:51Z,2023-05-26 04:02:51+00:00
+researches to study and understand the fully heavy states in future.","{'Jialun Ping', 'Yuheng Wu', 'Hongxia Huang', 'Ye Yan', 'Xinmei Zhu'}",2023-05-26T04:02:51Z,2023-05-26 04:02:51+00:00
 a novel beam-dump measurement with the lhc general-purpose detectors,"We propose a novel scheme for performing a beam-dump-like experiment with the
 general-purpose detectors (ATLAS and CMS) at the LHC. Collisions of high-energy
 protons result in jets containing a number of energetic hadrons and
@@ -1673,7 +1673,7 @@ dubbed beam-dump ""ceiling"", that typical beam-dump experiments hardly surpass,
 carrying the great potential for exploring a wide range of parameter space in
 increasing statistics. This analysis can be extended to investigate various
 types of light mediators with couplings to the Standard Model leptons and
-quarks.","{'Hyunyong Kim', 'Doojin Kim', 'Bhaskar Dutta'}",2023-05-25T18:00:01Z,2023-05-25 18:00:01+00:00
+quarks.","{'Doojin Kim', 'Bhaskar Dutta', 'Hyunyong Kim'}",2023-05-25T18:00:01Z,2023-05-25 18:00:01+00:00
 automated calculation of jet fragmentation at nlo in qcd,"We present FMNLO, a framework to combine general-purpose Monte Carlo
 generators and fragmentation functions (FFs). It is based on a hybrid scheme of
 phase-space slicing method and local subtraction method, and accurate to
@@ -1688,7 +1688,7 @@ fragmentation functions to unidentified charged hadrons using measurements at
 the LHC. We find the ATLAS data from inclusive dijet production show a strong
 constraining power. Notable disparities are found between our gluon FF and that
 of BKK, DSS and NNFF, indicating the necessities of additional constraints and
-data for gluon fragmentation function.","{'Bin Zhou', 'XiaoMin Shen', 'Jun Gao', 'ChongYang Liu'}",2024-01-06T17:56:21Z,2023-05-24 01:37:57+00:00
+data for gluon fragmentation function.","{'XiaoMin Shen', 'ChongYang Liu', 'Bin Zhou', 'Jun Gao'}",2024-01-06T17:56:21Z,2023-05-24 01:37:57+00:00
 "precision studies of the post-ct18 lhc drell-yan data in the cteq-tea
   global analysis","In this study, we examine closely the impact of the post-CT18 LHC Drell-Yan
 data on parton distribution functions (PDFs) in the general CTEQ-TEA global
@@ -1708,7 +1708,7 @@ TeV $W,Z$ data. The inclusion of these post-CT18 LHC Drell-Yan data sets in the
 CTEQ-TEA global analysis is to update the CT18 PDFs following similar trends as
 CT18Z PDFs. The parton luminosities and a few phenomenological implications
 with the fiducial $W^\pm,Z$ and inclusive $H,t\bar{t},t\bar{t}H$ productions at
-the 14 TeV LHC, as examples, are presented.","{'Keping Xie', 'Tie-Jiun Hou', 'Ibrahim Sitiwaldi', 'Alim Ablat', 'C. - P. Yuan', 'Sayipjamal Dulat'}",2023-06-07T13:44:46Z,2023-05-18 06:05:57+00:00
+the 14 TeV LHC, as examples, are presented.","{'Keping Xie', 'Sayipjamal Dulat', 'Ibrahim Sitiwaldi', 'Alim Ablat', 'C. - P. Yuan', 'Tie-Jiun Hou'}",2023-06-07T13:44:46Z,2023-05-18 06:05:57+00:00
 "forward-backward multiplicity and momentum correlations in pp and ppb
   collisions at the lhc energies","Correlations and fluctuations between produced particles in an
 ultra-relativistic nuclear collision remain one of the successor to understand
@@ -1731,7 +1731,7 @@ both $pp$ \& $pPb$ systems, though the correlation strengths are found to be
 larger for $pPb$ system than $pp$ system. Moreover, $\delta\eta$-weighted
 average of FB correlation strengths as a function of different center-of-mass
 energies for $pp$ collisions delineates a tendency of saturation at very high
-energies.","{'Hirak Koley', 'Somnath Kar', 'Joyati Mondal', 'Premomoy Ghosh', 'Argha Deb', 'Mitali Mondal'}",2023-05-12T03:20:17Z,2023-05-12 03:20:17+00:00
+energies.","{'Hirak Koley', 'Somnath Kar', 'Joyati Mondal', 'Argha Deb', 'Mitali Mondal', 'Premomoy Ghosh'}",2023-05-12T03:20:17Z,2023-05-12 03:20:17+00:00
 hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$,"The fully charmed hadronic scalar molecules $\mathcal{M}_1=\eta_c \eta_c$ and
 $\mathcal{M}_2=\chi_{c0}\chi_{c0}$ are studied in the context of the QCD sum
 rule method. The masses $m$, $\widetilde{m}$ and current couplings $f$, $
@@ -1754,7 +1754,7 @@ Collaborations in the di-$J/\psi$ and $J/\psi\psi^{\prime}$ invariant mass
 distributions. We argue that the molecule $\mathcal{M}_1$ can be considered as
 a real candidate to the resonance $X(6200)$. The structure $ \mathcal{M}_2$ may
 be interpreted as $X(6900)$ or one of its components in combination with a
-scalar tetraquark.","{'B. Barsbay', 'S. S. Agaev', 'K. Azizi', 'H. Sundu'}",2023-10-18T05:02:01Z,2023-05-05 17:16:05+00:00
+scalar tetraquark.","{'S. S. Agaev', 'K. Azizi', 'B. Barsbay', 'H. Sundu'}",2023-10-18T05:02:01Z,2023-05-05 17:16:05+00:00
 hunting muonic forces at emulsion detectors,"Only two types of Standard Model particles are able to propagate the
 $480\,$meters separating the ATLAS interaction point and FASER: neutrinos and
 muons. Furthermore, muons are copiously produced in proton collisions. We
@@ -1766,7 +1766,7 @@ show that even in the current LHC run, FASER$\nu$ could potentially probe
 previously unexplored parts of the parameter space. In the high-luminosity
 phase of the LHC, we find that the improved sensitivity of FASER$\nu2$ will
 probe unexplored parameter space and may be competitive with dedicated search
-proposals.","{'Iftah Galon', 'Akitaka Ariga', 'Enrique Kajomovitz', 'Reuven Balkin', 'Yotam Soreq'}",2023-05-04T18:35:33Z,2023-05-04 18:35:33+00:00
+proposals.","{'Akitaka Ariga', 'Reuven Balkin', 'Enrique Kajomovitz', 'Yotam Soreq', 'Iftah Galon'}",2023-05-04T18:35:33Z,2023-05-04 18:35:33+00:00
 "simple, but not simplified: a new approach for optimising
   beyond-standard model physics searches at the large hadron collider","Searches for beyond-Standard Model physics scenarios, such as supersymmetry
 (SUSY), at the Large Hadron Collider (LHC) are frequently optimised on
@@ -1788,7 +1788,7 @@ phenomenological scenarios identified by the global fit in the 4D model. We
 provide a demonstration of how our visualisation and benchmark model simulation
 process works, and develop an analysis that is able to exclude four benchmark
 models not excluded by the ATLAS and CMS collaborations in the set of results
-used for the global fit.","{'Martin White', 'Anders Kvellestad', 'Melissa van Beekveld', 'Philip Grace', 'Adam Leinweber'}",2023-05-03T00:28:17Z,2023-05-03 00:28:17+00:00
+used for the global fit.","{'Philip Grace', 'Anders Kvellestad', 'Adam Leinweber', 'Melissa van Beekveld', 'Martin White'}",2023-05-03T00:28:17Z,2023-05-03 00:28:17+00:00
 a new higgs boson with electron-muon flavor-violating couplings,"Recently, the CMS Collaboration performed a search on a new resonance
 decaying to $e^\pm\mu^\mp$ in the mass range of 110 GeV to 160 GeV. The search
 also hints a possible excess at 146 GeV with a $3.8\sigma~(2.8\sigma)$ of local
@@ -1800,7 +1800,7 @@ the entire search region against constraints of $\mu\to e\gamma$ and $\mu\to e$
 conversion in nuclei. Our finding indicates that the collider bounds can be
 superior to those of low-energy processes for the scalar mass between $110
 \text{ GeV}$ and $150 \text{ GeV}$, suggesting the importance of this mass
-range for future searches.","{'J. Julio', 'N. Srimanobhas', 'P. Uttayarat', 'R. Primulando'}",2023-08-29T15:06:32Z,2023-04-26 18:00:29+00:00
+range for future searches.","{'J. Julio', 'P. Uttayarat', 'N. Srimanobhas', 'R. Primulando'}",2023-08-29T15:06:32Z,2023-04-26 18:00:29+00:00
 fully charmed resonance $x(6900)$ and its beauty counterpart,"The fully heavy scalar tetraquarks $T_{\mathrm{4Q}}=QQ\overline{Q}\overline{Q
 }$, ($Q=c, b$) are explored in the context of QCD sum rule method. We model $
 T_{\mathrm{4Q}}$ as diquark-antidiquark systems composed of pseudoscalar
@@ -1823,7 +1823,7 @@ ATLAS, and CMS Collaborations. Based on this analysis, we interpret the
 tetraquark $T_{\mathrm{4c}}$ as a candidate to the resonance $X(6900)$. The
 mass $m^{\prime} $ and width $ \Gamma_{\mathrm{4b}}=(94 \pm 28)~\mathrm{MeV}$
 of the exotic meson $T_{ \mathrm{4b}}$ can be used in future experimental
-investigations of these","{'B. Barsbay', 'S. S. Agaev', 'K. Azizi', 'H. Sundu'}",2023-10-11T07:46:27Z,2023-04-19 19:41:10+00:00
+investigations of these","{'S. S. Agaev', 'K. Azizi', 'B. Barsbay', 'H. Sundu'}",2023-10-11T07:46:27Z,2023-04-19 19:41:10+00:00
 vectorlike leptons and long-lived bosons at the lhc,"We study a renormalizable theory that includes a heavy weak-singlet
 vectorlike lepton, $\tau^\prime$, that decays into a pseudoscalar boson and a
 tau lepton. We show that this can be the dominant decay mode of $\tau^\prime$
@@ -1843,7 +1843,7 @@ ATLAS and CMS experiments provides a unique opportunity to place sensitivity on
 such scenarios in a narrow, yet relevant parameter range. Furthermore, our
 investigation gives rise to a novel phenomenological signature that the LHC
 experiments can pursue to exploit their complementary detector design from a
-BSM perspective.","{'Christoph Englert', 'Clare Burrage', 'Spyros Argyropoulos'}",2023-04-17T09:52:52Z,2023-04-17 09:52:52+00:00
+BSM perspective.","{'Spyros Argyropoulos', 'Christoph Englert', 'Clare Burrage'}",2023-04-17T09:52:52Z,2023-04-17 09:52:52+00:00
 "constraint for a light charged higgs boson and its neutral partners from
   top quark pairs at the lhc","The charged Higgs boson plays an essential role in distinguishing between a
 wide variety of standard model extensions with multiple Higgs doublets, and has
@@ -1878,7 +1878,7 @@ next-to-next-to-leading order in QCD that does not rely on the leading-colour
 approximation at two loops. We demonstrate, nevertheless, that the
 sub-leading-colour effects present in the infrared- and ultraviolet-finite
 double-virtual contributions are negligible in view of the remaining scale
-uncertainties.","{'Simon Badger', 'Michal Czakon', 'Heribertus Bayu Hartanto', 'Rene Poncelet', 'Tiziano Peraro', 'Ryan Moodie', 'Simone Zoia'}",2023-04-13T17:26:08Z,2023-04-13 17:26:08+00:00
+uncertainties.","{'Simon Badger', 'Rene Poncelet', 'Heribertus Bayu Hartanto', 'Ryan Moodie', 'Simone Zoia', 'Tiziano Peraro', 'Michal Czakon'}",2023-04-13T17:26:08Z,2023-04-13 17:26:08+00:00
 energetic long-lived particles in the cms muon chambers,"We present a recast in different benchmark models of the recent CMS search
 that uses the endcap muon detector system to identify displaced showers
 produced by decays of long-lived particles (LLPs). The exceptional shielding
@@ -1888,7 +1888,7 @@ searches. At the same time, by using the muon system as a sampling calorimeter,
 the search is sensitive to LLPs energies rather than masses. We show that,
 thanks to these characteristics, this new search approach is sensitive to LLPs
 masses even lighter than a GeV, and can be complementary to proposed and
-existing dedicated LLP experiments.","{'Andrea Mitridate', 'Michele Papucci', 'Si Xie', 'Christina Wang', 'Cristián Peña'}",2023-11-10T05:34:49Z,2023-04-12 18:55:16+00:00
+existing dedicated LLP experiments.","{'Michele Papucci', 'Andrea Mitridate', 'Christina Wang', 'Cristián Peña', 'Si Xie'}",2023-11-10T05:34:49Z,2023-04-12 18:55:16+00:00
 exploring fully heavy scalar tetraquarks $qq\overline{q}\overline{q}$,"The masses, current couplings and widths of the fully heavy scalar
 tetraquarks $X_{\mathrm{4Q}}=QQ\overline{Q}\overline{Q}$, $Q=c, b$ are
 calculated by modeling them as four-quark systems composed of axial-vector
@@ -1913,7 +1913,7 @@ mechanisms. Comparing $m=(6570 \pm 55)~\mathrm{MeV}$ and $ \Gamma
 _{\mathrm{4c}}=(110 \pm 21)~\mathrm{MeV}$ with parameters of structures
 observed by the LHCb, ATLAS and CMS collaborations, we interpret $ X_{4c}$ as
 the resonance $X(6600)$ reported by CMS. Comparisons are made with other
-theoretical predictions.","{'B. Barsbay', 'S. S. Agaev', 'K. Azizi', 'H. Sundu'}",2023-10-31T07:24:36Z,2023-04-06 17:26:31+00:00
+theoretical predictions.","{'S. S. Agaev', 'K. Azizi', 'B. Barsbay', 'H. Sundu'}",2023-10-31T07:24:36Z,2023-04-06 17:26:31+00:00
 "mass spectra of hidden heavy-flavor tetraquarks with two and four heavy
   quarks","Inspired by the observation of the $X(6900)$ by LHCb and the $X(6600)$ (with
 mass $6552\pm 10$ $\pm 12$ MeV) recently by CMS and ATLAS experiments of the
@@ -1932,7 +1932,7 @@ the tetraquark systems $sc\bar{s}\bar{c}$, $sb\bar{s}\bar{b}$,
 $cb\bar{c}\bar{b}$, $nc\bar{n}\bar{c}$ and $nb\bar{n}\bar{b}$, suggesting that
 the $Z_{c}(4200)$ is the tetraquark $nc\bar{n}\bar{c}$ with $J^{PC}=1^{+-}$.
 All of these tetraquarks are above their lowest thresholds of two mesons and
-unstable against the strong decays.","{'Duojie Jia', 'Wen-Xuan Zhang', 'Ting-Qi Yan'}",2023-04-04T10:21:25Z,2023-04-04 10:21:25+00:00
+unstable against the strong decays.","{'Wen-Xuan Zhang', 'Ting-Qi Yan', 'Duojie Jia'}",2023-04-04T10:21:25Z,2023-04-04 10:21:25+00:00
 "implications of nsi constraints from antares and icecube on a simplified
   $z^\prime$ model","Recently the neutrino experiments ANTARES and IceCube have released new
 constraints to the non-standard neutrino interaction (NSI) parameter
@@ -1949,7 +1949,7 @@ low-energy flavor physics. Moreover, these neutrino experiments can exclude a
 similar region than ATLAS experiment, showing the potential to provide
 complementary information to the one obtained from direct searches at the Large
 Hadron Collider. The impact of the expected sensitivity at DUNE and Belle II
-experiments is also studied.","{'Alexander Parada', 'J. M. Cabarcas', 'Nestor Quintero-Poveda'}",2023-11-21T16:21:01Z,2023-04-03 21:27:25+00:00
+experiments is also studied.","{'Nestor Quintero-Poveda', 'Alexander Parada', 'J. M. Cabarcas'}",2023-11-21T16:21:01Z,2023-04-03 21:27:25+00:00
 probing dark matter using free leptons: pkmuon,"We propose a new method to detect sub-GeV dark matter, through their
 scatterings from free leptons and the resulting kinematic shifts. Specially,
 such an experiment can detect dark matter interacting solely with muons. The
@@ -1964,7 +1964,7 @@ muons can already reach $\sigma_D\sim 10^{-19 (-20,\,-18)}\rm{cm}^{2}$ for a
 dark mater $\rm{M_D}=100\, (10,\,1000)$ MeV. We can then interface the device
 with a high intensity muon beam of $10^{12}$/bunch. Within one year, the
 sensitivity can reach $\sigma_D\sim 10^{-27 (-28,\,-26)}\rm{cm}^{2}$ for
-$\rm{M_D}=100\, (10,\,1000)$ MeV.","{'Xiaohu Sun', 'Dayong Wang', 'Yajun Mao', 'Alim Ruzi', 'Qite Li', 'Qiang Li', 'Yong Ban', 'Chen Zhou', 'Siguang Wang'}",2023-10-11T00:26:59Z,2023-03-31 15:03:28+00:00
+$\rm{M_D}=100\, (10,\,1000)$ MeV.","{'Chen Zhou', 'Qite Li', 'Yong Ban', 'Siguang Wang', 'Yajun Mao', 'Xiaohu Sun', 'Alim Ruzi', 'Qiang Li', 'Dayong Wang'}",2023-10-11T00:26:59Z,2023-03-31 15:03:28+00:00
 thermalization at the femtoscale seen in high-energy pb+pb collisions,"A collision between two atomic nuclei accelerated close to the speed of light
 creates a dense system of quarks and gluons. Interactions among them are so
 strong that they behave collectively like a droplet of fluid of ten-femtometer
@@ -1980,7 +1980,7 @@ per particle increases as a function of the impact parameter of the collision.
 Since a larger impact parameter goes along with a smaller collision volume,
 this in turn implies that the momentum per particle increases as a function of
 density. This is a generic property of relativistic fluids, thus observed for
-the first time in a laboratory experiment.","{'Jiangyong Jia', 'Rupam Samanta', 'Jean-Yves Ollitrault', 'Somadutta Bhatta', 'Matthew Luzum'}",2023-03-27T15:22:18Z,2023-03-27 15:22:18+00:00
+the first time in a laboratory experiment.","{'Rupam Samanta', 'Somadutta Bhatta', 'Jiangyong Jia', 'Matthew Luzum', 'Jean-Yves Ollitrault'}",2023-03-27T15:22:18Z,2023-03-27 15:22:18+00:00
 "sensitivity of anomalous quartic gauge couplings via tri-photon
   production at fcc-hh","A direct investigation of the self-couplings of gauge bosons, completely
 described by the non-Abelian gauge symmetry of the Standard Model, is extremely
@@ -2004,7 +2004,7 @@ collaboration at the LHC. Considering a realistic systematic uncertainty such
 as 10\% from possible experimental sources, our obtained limits of anomalous
 quartic couplings get worse by about one order of magnitude compared to those
 without systematic uncertainty but are still two orders of magnitude better
-than those recently reported by ATLAS.","{'C. Helveci', 'H. Denizli', 'A. Senol'}",2023-04-25T10:09:25Z,2023-03-26 20:11:47+00:00
+than those recently reported by ATLAS.","{'H. Denizli', 'C. Helveci', 'A. Senol'}",2023-04-25T10:09:25Z,2023-03-26 20:11:47+00:00
 "exclusive diffractive bremsstrahlung of one and two photons at forward
   rapidities: possibilities for experimental studies in $pp$ collisions at the
   lhc","We evaluate the cross section for diffractive bremsstrahlung of a single
@@ -2031,7 +2031,7 @@ emitted in opposite sides of the ATLAS interaction point and can be measured by
 two different arms of LHCf. For the SPA1 ansatz we find $\sigma(pp \to pp
 \gamma \gamma) \simeq 0.03$ nb at $\sqrt{s} = 13$ TeV and with the cuts $0.02 <
 \xi_{i} < 0.1$, $8.5 < y_{3} < 9$, $-9 < y_{4} < -8.5$. Our predictions can be
-verified by ATLAS and LHCf combined experiments.","{'Otto Nachtmann', 'Piotr Lebiedowicz', 'Antoni Szczurek'}",2023-07-10T05:56:57Z,2023-03-24 13:05:53+00:00
+verified by ATLAS and LHCf combined experiments.","{'Piotr Lebiedowicz', 'Antoni Szczurek', 'Otto Nachtmann'}",2023-07-10T05:56:57Z,2023-03-24 13:05:53+00:00
 the cms di-photon excess at 95 gev in view of the lhc run 2 results,"The CMS collaboration has recently reported the results of a low-mass
 Higgs-boson search in the di-photon final state based on the full Run 2 data
 set with refined analysis techniques. The new results show an excess of events
@@ -2054,7 +2054,7 @@ both types of the S2HDM. However, the di-tau excess can only be accommodated at
 the level of $1\sigma$ in type IV. We also comment on the compatibility with
 supersymmetric scenarios and other extended Higgs sectors, and we discuss how
 the potential signal can be further analyzed at the LHC and at future $e^+e^-$
-colliders.","{'T. Biekötter', 'S. Heinemeyer', 'G. Weiglein'}",2024-03-12T13:47:34Z,2023-03-21 16:54:37+00:00
+colliders.","{'G. Weiglein', 'S. Heinemeyer', 'T. Biekötter'}",2024-03-12T13:47:34Z,2023-03-21 16:54:37+00:00
 "asymmetric di-higgs signals of the next-to-minimal 2hdm with a $u(1)$
   symmetry","The two-Higgs-doublet model with a $U(1)_H$ gauge symmetry (N2HDM-$U(1)$) has
 several advantages compared to the ``standard'' $Z_2$ version (N2HDM-$Z_2$): It
@@ -2075,7 +2075,7 @@ $\approx90\,$GeV subsequently decaying to bottom quarks (i.e., compatible with
 the CMS and ATLAS $\gamma\gamma$ excesses at $95\,$GeV and $\approx 670\,$GeV).
 As we will show, this excess can be addressed within the N2HDM-$U(1)$ in case
 of a nonminimal Yukawa sector, predicting an interesting and unavoidable $Z+
-b\bar b$ signal and motivating further asymmetric di-Higgs searches at the LHC.","{'Syuhei Iguro', 'Sumit Banik', 'Andreas Crivellin', 'Teppei Kitahara'}",2023-11-07T18:12:15Z,2023-03-20 18:00:01+00:00
+b\bar b$ signal and motivating further asymmetric di-Higgs searches at the LHC.","{'Teppei Kitahara', 'Syuhei Iguro', 'Andreas Crivellin', 'Sumit Banik'}",2023-11-07T18:12:15Z,2023-03-20 18:00:01+00:00
 "on production of excited kaluza-klein states in large radius
   compactification scenario","Production of exotic states at LHC is considered in the large radius
 compactification scenario. We envisage a five dimensional theory for a scalar
@@ -2109,7 +2109,7 @@ the LHC during Run 3, or the High Luminosity LHC. In particular, we identify
 scenarios with Higgsino-dominated electroweakinos as light as 140 GeV that are
 consistent with our combined set of collider searches and measurements. The
 full set of $\tilde G$-EWMSSM parameter samples and GAMBIT input files
-generated for this work is available via Zenodo.","{'Are Raklev', 'Matthias Danninger', 'Csaba Balázs', 'Lasse Lorentz Braseth', 'Pat Scott', 'Farvah Mahmoudi', 'Anders Kvellestad', 'Jeriek Van den Abeele', 'Gregory D. Martinez', 'Ankit Beniwal', 'The GAMBIT Collaboration', 'Jonathan Butterworth', 'Markus T. Prim', 'Tomás E. Gonzalo', 'Tomasz Procter', 'Viktor Ananyev', 'Patrick Stöcker', 'Yang Zhang', 'Andy Buckley', 'Christopher Chang', 'Andrew Fowlie', 'Martin White'}",2023-03-16T05:03:45Z,2023-03-16 05:03:45+00:00
+generated for this work is available via Zenodo.","{'Jeriek Van den Abeele', 'Anders Kvellestad', 'Lasse Lorentz Braseth', 'Csaba Balázs', 'Pat Scott', 'Are Raklev', 'Christopher Chang', 'Markus T. Prim', 'Andrew Fowlie', 'Andy Buckley', 'The GAMBIT Collaboration', 'Tomasz Procter', 'Jonathan Butterworth', 'Viktor Ananyev', 'Ankit Beniwal', 'Gregory D. Martinez', 'Patrick Stöcker', 'Farvah Mahmoudi', 'Yang Zhang', 'Matthias Danninger', 'Martin White', 'Tomás E. Gonzalo'}",2023-03-16T05:03:45Z,2023-03-16 05:03:45+00:00
 "impact of high invariant-mass drell-yan forward-backward asymmetry
   measurements on smeft fits","We study the impact of LHC forward-backward asymmetry (AFB) measurements at
 high invariant-mass in the Drell-Yan process on probes of semileptonic
@@ -2157,7 +2157,7 @@ collisions at $\sqrt{s}=8\,\mathrm{TeV}$ are calculated. A tetraquark state
 scenario from PACIAE+DCPC model shows better agreement with the LHCb and ATLAS
 measurements for the non-prompt $\chi_{c 1}(3872)$/$\psi(2S)$ cross-section
 ratio distributions, indicating that the $\chi_{c 1}(3872)$ is more likely to
-be a compact tetraquark state.","{'Zhi-Lei She', 'Gang Chen', 'Ben-Hao Sa', 'Xiao-Lin Kang', 'Chun-tai Wu', 'Hong-Ge Xu Dai-Mei Zhou', 'Xin-Ye Peng'}",2023-03-07T07:18:49Z,2023-03-07 07:18:49+00:00
+be a compact tetraquark state.","{'Xin-Ye Peng', 'Hong-Ge Xu Dai-Mei Zhou', 'Zhi-Lei She', 'Chun-tai Wu', 'Gang Chen', 'Ben-Hao Sa', 'Xiao-Lin Kang'}",2023-03-07T07:18:49Z,2023-03-07 07:18:49+00:00
 "probing electroweak phase transition in the singlet standard model via
   $bbγγ$ and 4$l$ channels","We investigate the prospects for resonant di-Higgs and heavy Higgs production
 searches at the 14 TeV HL-LHC in the combination of $bb\gamma\gamma$ and $4l$
@@ -2176,7 +2176,7 @@ $bb\gamma\gamma$ and $4l$ channels can discover/exclude a significant portion
 of
   %\mrmC{isn't it more accurate to say ""a significant portion of"" ?} of the
 viable parameter space that realizes a strong first order phase transition when
-the resonance mass is heavier than 500 GeV.","{'Wenxing Zhang', 'Suntharan Arunasalam', 'Hao-Lin Li', 'Yonghao Zeng', 'Kun Liu', 'Michael J. Ramsey-Musolf'}",2023-11-01T06:56:59Z,2023-03-07 02:58:35+00:00
+the resonance mass is heavier than 500 GeV.","{'Hao-Lin Li', 'Kun Liu', 'Yonghao Zeng', 'Suntharan Arunasalam', 'Michael J. Ramsey-Musolf', 'Wenxing Zhang'}",2023-11-01T06:56:59Z,2023-03-07 02:58:35+00:00
 atlas vs totem: disturbing divergence,"With use of a new $ C+N $ amplitude which correctly accounts for CNI to all
 orders in $\alpha$ the values of the parameters
 $\rho^{pp},\sigma_{\mbox{tot}}^{pp}$ and $B^{pp}$ are analysed on the basis of
@@ -2202,7 +2202,7 @@ scalar of mass $m_A=400$ GeV. Scenario 1 is consistent with Type-I Yukawa
 interactions, which can arise in a 2HDM subject to a softly-broken
 $\mathbb{Z}_2$ discrete symmetry. Scenario 2 is inconsistent with a
 symmetry-based flavor alignment, but can be consistent with more general
-flavor-aligned Higgs-fermion Yukawa couplings.","{'Howard E. Haber', 'Joseph M. Connell', 'Pedro Ferreira'}",2023-09-23T22:07:23Z,2023-02-27 11:55:52+00:00
+flavor-aligned Higgs-fermion Yukawa couplings.","{'Pedro Ferreira', 'Howard E. Haber', 'Joseph M. Connell'}",2023-09-23T22:07:23Z,2023-02-27 11:55:52+00:00
 di-higgs searches at the lhc,"An overview of the recent searches for Higgs boson pair production at the LHC
 was presented. The searches were based on approximately 140 $\mathrm{fb}^{-1}$
 of data collected by the ATLAS and CMS experiments in proton-proton collisions
@@ -2230,7 +2230,7 @@ $\approx0.5\,$pb is preferred over the Standard Model hypothesis by $\gtrsim
 2.5\,\sigma$. In light of the excesses in the $\gamma\gamma$, $\tau^+\tau^-$
 and $b\bar b$ channels at similar masses, this strengthens the case for such a
 new Higgs boson. Furthermore, this analysis also gives room for the scalar
-candidate at 151$\,$GeV decaying into $W$ bosons.","{'Srimoy Bhattacharya', 'Bruce Mellado', 'Andreas Crivellin', 'Guglielmo Coloretti'}",2023-08-09T05:55:43Z,2023-02-14 19:00:01+00:00
+candidate at 151$\,$GeV decaying into $W$ bosons.","{'Srimoy Bhattacharya', 'Guglielmo Coloretti', 'Andreas Crivellin', 'Bruce Mellado'}",2023-08-09T05:55:43Z,2023-02-14 19:00:01+00:00
 "smefit: a flexible toolbox for global interpretations of particle
   physics data with effective field theories","The Standard Model Effective Field Theory (SMEFT) provides a robust framework
 to interpret experimental measurements in the context of new physics scenarios
@@ -2248,7 +2248,7 @@ carry out state-of-the-art EFT fits of Higgs, top quark, and electroweak
 production data. To illustrate its functionalities, we reproduce the results of
 the recent ATLAS EFT interpretation of Higgs and electroweak data from Run II
 and demonstrate how equivalent results are obtained in two different operator
-bases.","{'Tommaso Giani', 'Giacomo Magni', 'Juan Rojo'}",2023-02-13T19:46:30Z,2023-02-13 19:46:30+00:00
+bases.","{'Giacomo Magni', 'Juan Rojo', 'Tommaso Giani'}",2023-02-13T19:46:30Z,2023-02-13 19:46:30+00:00
 dark matter searches with top quarks,"Collider signatures with top quarks provide sensitive probes of dark matter
 (DM) production at the Large Hadron Collider (LHC). In this article, we review
 the results of DM searches in final states with top quarks conducted by the
@@ -2262,7 +2262,7 @@ potential of DM searches with top quarks in LHC Run 3, at the high-luminosity
 LHC, and possible future colliders. In this context, we highlight new benchmark
 models that could be probed by existing and future searches as well as those
 that predict still uncovered signatures of anomalous top-quark production and
-decays at the LHC.","{'Alexander Grohsjean', 'J. Katharina Behr'}",2023-02-11T13:53:16Z,2023-02-11 13:53:16+00:00
+decays at the LHC.","{'J. Katharina Behr', 'Alexander Grohsjean'}",2023-02-11T13:53:16Z,2023-02-11 13:53:16+00:00
 "new physics hints from $τ$ scalar interactions and $(g-2)_{e,μ}$","We consider a flavour conserving two Higgs doublet model that consists of a
 type I (or X) quark sector and a generalized lepton sector where the Yukawa
 couplings of the charged leptons to the new scalars are not proportional to the
@@ -2281,7 +2281,7 @@ similar size, while the electron anomaly is explained at two loops. An
 analogous ATLAS excess in $b$-associated production and the CMS excess in ditop
 production are also studied. Further New Physics prospects concerning the
 anomalous magnetic moment of the $\tau$ lepton and the implications of the CDF
-$M_W$ measurement on the final results are discussed.","{'Carlos Miró', 'Fernando Cornet-Gomez', 'Francisco J. Botella', 'Miguel Nebot'}",2024-01-11T12:30:44Z,2023-02-10 19:04:41+00:00
+$M_W$ measurement on the final results are discussed.","{'Francisco J. Botella', 'Fernando Cornet-Gomez', 'Miguel Nebot', 'Carlos Miró'}",2024-01-11T12:30:44Z,2023-02-10 19:04:41+00:00
 "probing electroweak phase transition in singlet scalar extension of
   standard model at hl-lhc through $bbzz$ channel using parameterized machine
   learning","In this paper, the collider signature of the heavy Higgs boson at $14$ TeV
@@ -2298,7 +2298,7 @@ benchmark points. Despite the lower branching fractions, this channel can be a
 potential probe of the electroweak phase transition with the data sets
 collected by the CMS and ATLAS experiments in the $14$ TeV HL-LHC with $3$
 $\rm{ab}^{-1}$ of integrated luminosity and a production of resonant di-Higgs
-signal can be potentially discovered.","{'Pritam Palit', 'Sujay Shil'}",2023-02-08T16:59:39Z,2023-02-08 16:59:39+00:00
+signal can be potentially discovered.","{'Sujay Shil', 'Pritam Palit'}",2023-02-08T16:59:39Z,2023-02-08 16:59:39+00:00
 study of $x(6900)$ with unitarized coupled channel scattering amplitudes,"In this paper, we study the resonant state $X(6900)$. The scattering
 amplitudes of coupled channels, $J/\psi J/\psi$-$J/\psi \psi(2S)$-$J/\psi
 \psi(3770)$, are constructed with the interaction of four vector mesons
@@ -2310,7 +2310,7 @@ ATLAS. High-quality solutions are obtained. With these partial wave amplitudes,
 we extract the pole parameters of the $X(6900)$. Its quantum number is likely
 to be $0^{++}$. According to the pole counting rule as well as analysis of the
 phase shifts of the partial waves, it supports our previous conclusion that the
-$X(6900)$ prefers to be a compact tetra-quark.","{'Qi Zhou', 'Qin-He Yang', 'Di Guo', 'Ling-Yun Dai', 'Shi-Qing Kuang'}",2023-03-05T09:32:40Z,2023-02-08 09:53:19+00:00
+$X(6900)$ prefers to be a compact tetra-quark.","{'Di Guo', 'Ling-Yun Dai', 'Qin-He Yang', 'Qi Zhou', 'Shi-Qing Kuang'}",2023-03-05T09:32:40Z,2023-02-08 09:53:19+00:00
 long-lived particle phenomenology in the 2hdm+$a$ model,"Higgs decays displaced from the primary interaction vertex represent a
 striking experimental signature that is actively searched for by the ATLAS, CMS
 and LHCb collaborations. We point out that signals of this type appear in the
@@ -2346,7 +2346,7 @@ the order ${\cal O }(10^{-3}-10^{-4})$ lie within the detection accuracy of the
 current experiments at LHCb and Tevatron. The sizeable $CP$-odd fractions
 predicted for $B_c^-$-meson decay to two charmful states: $D^{*0}D^{*-}_{(s)}$
 and $\bar{D}^{*0}D^{*-}_{(s)}$ indicate significant $CP$-violation hinting at
-the so-called new physics beyond the standard model.","{'Lopamudra Nayak', 'Susmita Kar', 'N. Barik', 'Rabinarayan Panda', 'Kalpalata Dash', 'P. C. Dash'}",2023-03-29T14:01:44Z,2023-02-04 10:42:00+00:00
+the so-called new physics beyond the standard model.","{'Kalpalata Dash', 'Lopamudra Nayak', 'Rabinarayan Panda', 'N. Barik', 'Susmita Kar', 'P. C. Dash'}",2023-03-29T14:01:44Z,2023-02-04 10:42:00+00:00
 "b-hadron production at the lhc from bottom-quark pair production at
   nnlo+ps","The production of B hadrons is among the most abundant fundamental QCD
 processes measured at the LHC. We present for the first time predictions for
@@ -2356,7 +2356,7 @@ parton showers. Our novel results are in good agreement with experimental data
 for the production of different types of B hadrons from ATLAS, CMS and LHCb at
 7 TeV and/or 13 TeV, including various fiducial cross sections as well as
 single- and double-differential distributions, and 13 TeV/7 TeV cross-section
-ratios.","{'Javier Mazzitelli', 'Giulia Zanderighi', 'Alessandro Ratti', 'Marius Wiesemann'}",2023-02-03T10:42:01Z,2023-02-03 10:42:01+00:00
+ratios.","{'Javier Mazzitelli', 'Alessandro Ratti', 'Giulia Zanderighi', 'Marius Wiesemann'}",2023-02-03T10:42:01Z,2023-02-03 10:42:01+00:00
 "a modular perspective to the jet suppression from a small to large
   radius in very high transverse momentum jets","In this work, we extend the scope of the JETSCAPE framework to cover the jet
 radius ($R$) dependence of the jet nuclear modification factor, ${R_{AA}}$, for
@@ -2377,7 +2377,7 @@ multi-stage evolution of the parton shower. The calculations are then
 replicated for different low-virtuality based evolution models like the MARTINI
 and the AdS/CFT, which is followed by a rigorous comparison between the
 predictions from the former model combinations to the measurements at the CMS
-experiment.","{'Om Shahi', 'Prabhakar Palni', 'Vaishnavi Desai'}",2023-02-07T18:24:30Z,2023-01-27 18:48:35+00:00
+experiment.","{'Prabhakar Palni', 'Vaishnavi Desai', 'Om Shahi'}",2023-02-07T18:24:30Z,2023-01-27 18:48:35+00:00
 refining the geneva method for higgs boson production via gluon fusion,"We describe a number of improvements to the GENEVA method for matching NNLO
 calculations to parton shower programs. In particular, we detail changes to the
 resummed calculation used in the matching procedure, including disentangling
@@ -2390,7 +2390,7 @@ small values of the resolution parameter. As a case study, we consider the
 gluon-initiated Higgs boson production process $gg\to H$. We validate the NNLO
 accuracy of our predictions against independent calculations, and compare our
 showered and hadronised results with recent data taken at the ATLAS and CMS
-experiments in the diphoton decay channel, finding good agreement.","{'Simone Alioli', 'Alessandro Broggio', 'Riccardo Nagar', 'Matthew A. Lim', 'Davide Napoletano', 'Stefan Kallweit', 'Alessandro Gavardi', 'Giulia Marinelli', 'Georgios Billis'}",2023-05-24T16:42:25Z,2023-01-27 17:36:06+00:00
+experiments in the diphoton decay channel, finding good agreement.","{'Stefan Kallweit', 'Matthew A. Lim', 'Riccardo Nagar', 'Giulia Marinelli', 'Alessandro Broggio', 'Davide Napoletano', 'Alessandro Gavardi', 'Simone Alioli', 'Georgios Billis'}",2023-05-24T16:42:25Z,2023-01-27 17:36:06+00:00
 "precision phenomenology with fiducial cross sections in the
   triple-differential drell-yan process","The production of lepton pairs (Drell-Yan process) at the LHC is being
 measured to high precision, enabling the extraction of distributions that are
@@ -2408,7 +2408,7 @@ parton distributions and electroweak parameters. We derive Standard-Model
 theory predictions which combine NNLO QCD and NLO EW corrections and include
 partial N$^3$LO QCD as well as higher-order EW corrections where appropriate.
 Our results will enable the use of the triple-differential Drell-Yan data in a
-precise experimental determination of the weak mixing angle.","{'D. M. Walker', 'A. Huss', 'E. W. N. Glover', 'C. T. Preuss', 'T. Gehrmann', 'A. Gehrmann-De Ridder'}",2023-08-08T06:55:50Z,2023-01-27 16:28:28+00:00
+precise experimental determination of the weak mixing angle.","{'A. Huss', 'E. W. N. Glover', 'C. T. Preuss', 'A. Gehrmann-De Ridder', 'T. Gehrmann', 'D. M. Walker'}",2023-08-08T06:55:50Z,2023-01-27 16:28:28+00:00
 "jet-veto resummation at n$^3$ll$_\text{p}$+nnlo in boson production
   processes","Vetoing energetic jet activity is a crucial tool for suppressing backgrounds
 and enabling new physics searches at the LHC, but the introduction of a veto
@@ -2425,7 +2425,7 @@ known approximately, hence N$^3$LL$_\text{p}$. We describe in detail our
 formalism and compare with previous public codes that operate at the level of
 NNLL. Our higher-order predictions improve significantly upon NNLL calculations
 by reducing theoretical uncertainties. We demonstrate this by comparing our
-predictions with ATLAS and CMS results.","{'John M. Campbell', 'Tobias Neumann', 'R. Keith Ellis', 'Satyajit Seth'}",2023-04-09T16:17:22Z,2023-01-27 15:06:45+00:00
+predictions with ATLAS and CMS results.","{'R. Keith Ellis', 'Satyajit Seth', 'Tobias Neumann', 'John M. Campbell'}",2023-04-09T16:17:22Z,2023-01-27 15:06:45+00:00
 study of ttbb and ttw background modelling for tth analyses,"This note presents Monte Carlo generator comparisons of the ttbb and ttW
 processes at particle level. The aim is to compare the modelling of important
 backgrounds to ttH measurements in multi-lepton final states and in the
@@ -2436,7 +2436,7 @@ CMS are compared in the relevant analysis regions. Significant differences in
 the treatment of systematic uncertainties between the experiments have been
 observed in ttbb and ttW. As a first step, ATLAS and CMS agreed on a common
 reference value of the inclusive ttW cross section to allow direct comparisons
-between experiments.","{'Jan van der Linden', 'Matthias Schroeder', 'Judith Katzy', 'Joshuha Thomas-Wilsker', 'Lars Ferencz', 'Josh McFayden', 'Emanuel Pfeffer', 'Kirill Grevtsov', 'Andrej Saibel', 'Gianna Moenig', 'Andrea Knue'}",2023-01-27T12:07:01Z,2023-01-27 12:07:01+00:00
+between experiments.","{'Andrea Knue', 'Kirill Grevtsov', 'Josh McFayden', 'Lars Ferencz', 'Jan van der Linden', 'Judith Katzy', 'Joshuha Thomas-Wilsker', 'Matthias Schroeder', 'Emanuel Pfeffer', 'Gianna Moenig', 'Andrej Saibel'}",2023-01-27T12:07:01Z,2023-01-27 12:07:01+00:00
 dark matter searches at cms and atlas,"A glimpse into the most recent searches for Dark Matter at the LHC performed
 by the ATLAS and CMS collaborations is presented. The results covered in this
 document are all based on Run-2 proton-proton collision data recorded at
@@ -2484,7 +2484,7 @@ $2^{-+}$. The possible assignments for X(6900) include the $0^{++}$(2$S$),
 $2^{++}$(2$S$) states, and the highest 1$P$ state with $J^{PC}=0^{-+}$. As for
 X(7200), it can be interpreted as one of the highest 2$P$ states with
 $J^{PC}=0^{-+}$, $1^{-+}$, and $2^{-+}$, and the 3$S$ states can not be
-completely excluded from the candidates.","{'Zhen-Yu Li', 'Zhi-Gang Wang', 'Guo-Liang Yu', 'Jie Lu', 'Meng Yan'}",2023-04-03T14:52:53Z,2022-12-29 15:12:49+00:00
+completely excluded from the candidates.","{'Zhi-Gang Wang', 'Guo-Liang Yu', 'Zhen-Yu Li', 'Meng Yan', 'Jie Lu'}",2023-04-03T14:52:53Z,2022-12-29 15:12:49+00:00
 constraining the georgi-machacek model with a light higgs,"In this work, we investigate the viability of a light Higgs ($\eta$) scenario
 in the Georgi-Machacek (GM) model, where we consider all theoretical and
 experimental constraints such as the perturbativity, vacuum stability,
@@ -2520,7 +2520,7 @@ LHC when the fraction of unstable dark hadrons decaying to $\tau$ lepton pairs
 is around $50\%$, and with a coupling of the $Z'$ to right-handed up-type
 quarks of 0.25. Furthermore, we show that, with new trigger strategies for
 Run3, it may be possible to access $Z'$ masses down to 700 GeV, for which the
-event topology is still composed of two resolved semi-visible jets.","{'Cesare Cazzaniga', 'Hugues Beauchesne', 'Tobias Fitschen', 'Annapaola de Cosa', 'Giovanni Grilli di Cortona', 'Caterina Doglioni', 'Ziyuan Zhou'}",2023-07-13T07:16:25Z,2022-12-22 08:00:47+00:00
+event topology is still composed of two resolved semi-visible jets.","{'Ziyuan Zhou', 'Caterina Doglioni', 'Annapaola de Cosa', 'Hugues Beauchesne', 'Tobias Fitschen', 'Cesare Cazzaniga', 'Giovanni Grilli di Cortona'}",2023-07-13T07:16:25Z,2022-12-22 08:00:47+00:00
 bsm and sm signals and backgrounds in far-forward experiments at the lhc,"Two far-forward experimental systems are currently taking data during Run 3
 at the Large Hadron Collider (LHC): FASER + FASER$\nu$ and SND@LHC. They are
 sensitive to some classes of beyond-the-Standard Model (BSM) particles, muons
@@ -2553,7 +2553,7 @@ ATLAS analysis with engineered features. Our point cloud architectures can be
 viewed as simplified versions of graph neural networks, where each particle in
 the event corresponds to a graph node. In our case study, we find the best
 balance of performance and computational cost for simple pairwise
-architectures, which are based on learned edge features.","{'Peter Onyisi', 'Jesse Thaler', 'Delon Shen'}",2023-07-12T07:43:39Z,2022-12-20 21:22:09+00:00
+architectures, which are based on learned edge features.","{'Jesse Thaler', 'Peter Onyisi', 'Delon Shen'}",2023-07-12T07:43:39Z,2022-12-20 21:22:09+00:00
 probing displaced top quark signature at the lhc run 3,"In the context of prospective studies for searches of new physics at the LHC
 Run 3, this paper investigates the relevance of using top quarks produced from
 new long-lived particles, and detected in the tracker volume of the ATLAS and
@@ -2567,7 +2567,7 @@ particle which produces at least one top quark: electrically neutral or
 charged, coloured or non-coloured long-lived particle. For each model, a wide
 region of parameter space, consistent with a reasonable number of displaced top
 quarks decaying in a typical tracker volume has been probed. From this study,
-promising benchmarks are defined and experimental guidelines are suggested.","{'Robin Ducrocq', 'Jeremy Andrea', 'Douja Darej', 'Eric Conte', 'Emery Nibigira', 'Daniel Bloch'}",2023-03-29T08:11:34Z,2022-12-13 15:57:16+00:00
+promising benchmarks are defined and experimental guidelines are suggested.","{'Robin Ducrocq', 'Douja Darej', 'Eric Conte', 'Jeremy Andrea', 'Daniel Bloch', 'Emery Nibigira'}",2023-03-29T08:11:34Z,2022-12-13 15:57:16+00:00
 the third peak structure in the double $j/ψ$ spectrum,"Recently, the CMS and ATLAS collaborations have reported their $J/\psi J/\psi
 $ and $J/\psi \psi^\prime$ invariant mass distributions, respectively, for
 searching for fully charmed tetraquarks. Both of them reported the existence of
@@ -2590,7 +2590,7 @@ distribution and the dip structure in the $J/\psi \psi^\prime$ invariant mass
 distribution around $7.2~\gev$ is unambiguous. We suggest experimentalists to
 detailed scan both the $J/\psi J/\psi$ and the $J/\psi \psi^\prime$ invariant
 mass distributions, especially around $7.2~\gev$ to probe the nature of the
-third fully charmed state.","{'Zhenyu Zhang', 'PengYu Niu', 'Qian Wang', 'Meng-Lin Du'}",2023-04-11T12:51:37Z,2022-12-13 12:40:27+00:00
+third fully charmed state.","{'Meng-Lin Du', 'Qian Wang', 'Zhenyu Zhang', 'PengYu Niu'}",2023-04-11T12:51:37Z,2022-12-13 12:40:27+00:00
 "revisiting the centrality definition and observable centrality
   dependence of relativistic heavy-ion collisions in paciae model","We improve the centrality definition in impact parameter in PACIAE model
 responding the fact reported by the ALICE, ATLAS, and CMS collaborations that
@@ -2604,7 +2604,7 @@ and nucleus-nucleus collisions at relativistic energies are consistent with the
 improved MC-Glauber model ones within the error bar. The charged-particle
 pseudorapidity and the transverse momentum distributions in Pb-Pb collisions at
 $\sqrt{s_{\rm NN}}=5.02$ TeV simulated by PACIAE 2.2.2 well reproduce the ALICE
-experimental data.","{'Liang Zheng', 'Dai-Mei Zhou', 'Xiao-Ming Zhang', 'Xiao-Mei Li', 'An-Ke Lei', 'Gang Chen', 'Yu-Liang Yan', 'Xu Cai', 'Ben-hao Sa'}",2022-12-08T05:46:02Z,2022-12-08 05:46:02+00:00
+experimental data.","{'Yu-Liang Yan', 'Xiao-Mei Li', 'Dai-Mei Zhou', 'Xu Cai', 'Gang Chen', 'An-Ke Lei', 'Ben-hao Sa', 'Xiao-Ming Zhang', 'Liang Zheng'}",2022-12-08T05:46:02Z,2022-12-08 05:46:02+00:00
 multipartonic cascades in expanding media,"In this work, we introduce both gluon and quark degrees of freedom for
 describing the partonic cascades inside the medium. We present numerical
 solutions for the set of coupled evolution equations with splitting kernels
@@ -2620,7 +2620,7 @@ the impact of the expansion of the medium on the rapidity dependence of the jet
 $R_{AA}$ as well as jet $v_2$ are studied in detail. Finally, we present
 qualitative results comparing the sensitivity of the time for the onset of the
 quenching for the Bjorken profile on these observables. All the quantities
-calculated are compared with the recent ATLAS data.","{'Konrad Tywoniuk', 'Carlos A. Salgado', 'Souvik Priyam Adhya', 'Martin Spousta'}",2022-12-06T15:52:26Z,2022-12-06 15:52:26+00:00
+calculated are compared with the recent ATLAS data.","{'Carlos A. Salgado', 'Konrad Tywoniuk', 'Martin Spousta', 'Souvik Priyam Adhya'}",2022-12-06T15:52:26Z,2022-12-06 15:52:26+00:00
 "pyhf: pure-python implementation of histfactory with tensors and
   automatic differentiation","The HistFactory p.d.f. template is per-se independent of its implementation
 in ROOT and it is useful to be able to run statistical analysis outside of the
@@ -2632,7 +2632,7 @@ graph libraries such as TensorFlow, PyTorch, and JAX in order to make use of
 features such as auto-differentiation and GPU acceleration. In addition, pyhf's
 JSON serialization specification for HistFactory models has been used to
 publish 23 full probability models from published ATLAS collaboration analyses
-to HEPData.","{'Lukas Heinrich', 'Giordon Stark', 'Matthew Feickert'}",2022-11-29T00:19:22Z,2022-11-29 00:19:22+00:00
+to HEPData.","{'Matthew Feickert', 'Giordon Stark', 'Lukas Heinrich'}",2022-11-29T00:19:22Z,2022-11-29 00:19:22+00:00
 "event characterization of dark bosons via exotic higgs decays with final
   states of displaced dimuons in high luminosity era of the lhc","We investigate the potential reach of a search for a long-lived/prompt dark
 vector boson $Z_D$, also called dark $Z$, and a prompt dark Higgs boson $h_D$
@@ -2648,7 +2648,7 @@ constraint using data from ATLAS and CMS detectors to be collected in Run~3.
 Integrated luminosities of 137, 300, and 3000 fb$^{-1}$ for Run~2, Run~3, and
 high luminosity run (HL-LHC), respectively, are used for estimating the
 expected search sensitivity of the Large Hadron Collider to each of the decay
-modes.","{'Tamer Elkafrawy', 'Teruki Kamon', 'Paul Padley', 'Marcus Hohlmann'}",2022-11-22T20:39:50Z,2022-11-22 20:39:50+00:00
+modes.","{'Marcus Hohlmann', 'Tamer Elkafrawy', 'Paul Padley', 'Teruki Kamon'}",2022-11-22T20:39:50Z,2022-11-22 20:39:50+00:00
 "higgs-like particle decays into $γz$ and $γγ$ :
   fingerprints of some non-supersymmetric models","Recently, ATLAS and CMS experiments at the LHC put on light the relevant
 results in the measurement precision of the Higgs and BSM. In such a report,
@@ -2665,7 +2665,7 @@ theoretical and most recent experimental constraints, the phenomenological
 implications of existing extensions beyond the SM are discussed, and prospects
 for precision studies of these processes are described. We have found that the
 excess could be explained in the BSM framework studied, depending on the
-charged and double-charged Higgs boson masses.","{'M. Ouchemhou', 'M. Boukidi', 'L. Rahili', 'R. Benbrik', 'O. Tibssirte'}",2023-06-27T23:21:40Z,2022-11-22 19:41:46+00:00
+charged and double-charged Higgs boson masses.","{'L. Rahili', 'M. Ouchemhou', 'R. Benbrik', 'O. Tibssirte', 'M. Boukidi'}",2023-06-27T23:21:40Z,2022-11-22 19:41:46+00:00
 "going in quest of potential tetraquark interpretations for the newly
   observed $t_{ψψ}$ states in light of the diquark-antidiquark scenarios","Stimulated by the recent experimental progress on the $T_{\psi\psi}$ states,
 the fully charmed tetraquark spectroscopy is systemically investigated by dint
@@ -2696,7 +2696,7 @@ data, SIDIS di-muon production data, $F_3$ structure function data, E866 NuSea
 data, and E906 SeaQuest data as examples to illustrate the implication of
 CT18As and CT18As\_Lat fits. The parametrization dependence for PDF ratio
 $(s+\bar{s})/(\bar{u}+\bar{d})(x)$ is analyzed with CT18As2 and CT18As2\_Lat
-fits as results.","{'Mengshi Yan', 'Tie-Jiun Hou', 'Huey-Wen Lin', 'C. -P. Yuan'}",2022-11-20T19:35:36Z,2022-11-20 19:35:36+00:00
+fits as results.","{'Huey-Wen Lin', 'Mengshi Yan', 'Tie-Jiun Hou', 'C. -P. Yuan'}",2022-11-20T19:35:36Z,2022-11-20 19:35:36+00:00
 "two-photon decay of fully-charmed tetraquarks from light-by-light
   scattering at the lhc","The LHC newly-discovered resonant structures around 7 GeV, such as the
 $X(6900)$, could be responsible for the observed excess in light-by-light
@@ -2707,7 +2707,7 @@ inferred by the vector-meson dominance, but agrees quite well with the
 tetraquark expectation for the nature of this state. Further light-by-light
 scattering data in this region, obtained during the ongoing Run-3 and future
 Run-4 of the LHC, are required to pin down these states in $\gamma\gamma$
-channel.","{'Bogdan Malaescu', 'Kristof Schmieden', 'Vladimir Pascalutsa', 'Lucian Harland-Lang', 'Matthias Schott', 'Volodymyr Biloshytskyi'}",2022-11-18T14:45:10Z,2022-11-18 14:45:10+00:00
+channel.","{'Matthias Schott', 'Volodymyr Biloshytskyi', 'Bogdan Malaescu', 'Lucian Harland-Lang', 'Vladimir Pascalutsa', 'Kristof Schmieden'}",2022-11-18T14:45:10Z,2022-11-18 14:45:10+00:00
 "nlo qcd corrections to polarised di-boson production in semi-leptonic
   final states","Understanding the polarisation structure and providing precise predictions
 for multi-boson processes at the LHC is becoming urgent in the light of the
@@ -2722,7 +2722,7 @@ The calculation relies on the double-pole approximation and the separation of
 polarised states at the level of Standard Model amplitudes. The presented
 NLO-accurate results are necessary building blocks for a broad understanding
 and precise modelling of polarised di-boson production in semi-leptonic decay
-channels.","{'Ansgar Denner', 'Giovanni Pelliccioli', 'Christoph Haitz'}",2023-03-24T14:56:58Z,2022-11-16 16:57:02+00:00
+channels.","{'Christoph Haitz', 'Giovanni Pelliccioli', 'Ansgar Denner'}",2023-03-24T14:56:58Z,2022-11-16 16:57:02+00:00
 "azimuthal decorrelation for photon induced dijet production in
   ultra-peripheral collisions of heavy ions","We study the azimuthal angular decorrelation of the dijet production via
 photon fusion in ultra-peripheral heavy ion collisions. The impact parameter
@@ -2733,7 +2733,7 @@ Soft-Collinear Effective Theory. We carry out the QCD resummation of large
 logarithms of the azimuthal angle as well as the jet radius at next-to-leading
 logarithmic accuracy. In the end we present the normalized differential cross
 section for azimuthal decorrelation of the dijet pair and find that our results
-are consistent with the measurements reported by the ATLAS collaboration.","{'Cheng Zhang', 'Ding Yu Shao', 'Qian-Shun Dai'}",2023-02-02T04:43:53Z,2022-11-14 02:29:17+00:00
+are consistent with the measurements reported by the ATLAS collaboration.","{'Ding Yu Shao', 'Qian-Shun Dai', 'Cheng Zhang'}",2023-02-02T04:43:53Z,2022-11-14 02:29:17+00:00
 "precision tau physics: challenge for theory, on and off the lattice","$\tau$ is playing an important role in the current B-physics indications from
 experiments of lepton flavor universality violations(LFUV). This suggests it be
 given increasing attention theoretically in the coming years, given also the
@@ -2775,7 +2775,7 @@ VBS in the scalar-channel involving three different types of Higgs-like
 particles characterized by their mass; above (heavy), inside (resonance) or
 below (stable) the elastic region. To this end, we combine results obtained in
 a reduced SM setup from (augmented) perturbation theory with those from
-non-perturbative lattice simulations.","{'Bernd Riederer', 'Axel Maas'}",2022-10-31T10:49:41Z,2022-10-31 10:49:41+00:00
+non-perturbative lattice simulations.","{'Axel Maas', 'Bernd Riederer'}",2022-10-31T10:49:41Z,2022-10-31 10:49:41+00:00
 fully-heavy tetraquark spectroscopy in the relativistic quark model,"Masses of the ground and excited (1P, 2S, 1D, 2P, 3S) states of the
 fully-heavy tetraquarks, composed of charm ($c$) and bottom ($b$) quarks and
 antiquarks, are calculated in the diquark-antidiquark picture within the
@@ -2792,7 +2792,7 @@ discovered in the di-$J/\psi$ production spectrum by the LHCb, CMS and ATLAS
 Collaborations corresponds to an excited state of the fully-charmed tetraquark.
 Other recently discovered exotic heavy resonances X(6200), X(6400), X(6600),
 X(7200), X(7300) can also be interpreted as the different excitations of the
-fully-charmed tetraquark.","{'R. N. Faustov', 'E. M. Savchenko', 'V. O. Galkin'}",2022-10-28T09:41:46Z,2022-10-28 09:41:46+00:00
+fully-charmed tetraquark.","{'E. M. Savchenko', 'V. O. Galkin', 'R. N. Faustov'}",2022-10-28T09:41:46Z,2022-10-28 09:41:46+00:00
 "investigating higgs self-interaction through di-higgs plus jet
   production","The Higgs self coupling measurement is quite essential for determining the
 shape of the Higgs potential and nature of the Higgs boson. We propose the
@@ -2802,7 +2802,7 @@ simulation indicates that the allowed region of the Higgs self coupling would
 be further narrowed from $[-1.5,6.7]$ from the most recent ATLAS report down to
 $[0.5, 1.7]$. Furthermore, we find negative Higgs self couplings would be
 disfavored beyond $2\sigma$ confidence level at a future 100TeV collider with
-the help of this signal.","{'Kangyu Chai', 'Hao Zhang', 'Jiang-Hao Yu'}",2022-10-26T18:00:02Z,2022-10-26 18:00:02+00:00
+the help of this signal.","{'Hao Zhang', 'Kangyu Chai', 'Jiang-Hao Yu'}",2022-10-26T18:00:02Z,2022-10-26 18:00:02+00:00
 developments in performance and portability for madgraph5_amc@nlo,"Event generators simulate particle interactions using Monte Carlo techniques,
 providing the primary connection between experiment and theory in experimental
 high energy physics. These software packages, which are the first step in the
@@ -2822,7 +2822,7 @@ and GPU architectures. Performance is reported in terms of matrix element
 calculations per time on NVidia, Intel, and AMD devices. The status and outlook
 for the integration of this work into a production release usable by the LHC
 experiments, with the same functionalities and very similar user interfaces as
-the current Fortran version, is also described.","{'Walter Hopkins', 'Nathan Nichols', 'Taylor Childers', 'Stefan Roiser', 'Andrea Valassi', 'Olivier Mattelaer', 'David Smith', 'Stefan Hageböck', 'Laurence Field'}",2022-10-20T09:33:17Z,2022-10-20 09:33:17+00:00
+the current Fortran version, is also described.","{'Andrea Valassi', 'Taylor Childers', 'Olivier Mattelaer', 'Stefan Hageböck', 'Nathan Nichols', 'David Smith', 'Laurence Field', 'Stefan Roiser', 'Walter Hopkins'}",2022-10-20T09:33:17Z,2022-10-20 09:33:17+00:00
 "optimizing higgs boson reconstruction efficiency with small-r (r = 0.4)
   and large-r (r = 1.0) jets","Many Beyond the Standard Model searches at ATLAS employ jets to simplify
 event reconstruction. These jets cluster particle shower products into
@@ -2862,7 +2862,7 @@ adapt earlier SUSY-motivated searchers of new physics to constrain the spectrum
 and couplings of the new scalars and fermions. Overall, the new physics
 template simultaneously accounts for the bulk of the observed experimental
 anomalies while suggesting a wide spectrum of experimental signatures relevant
-for the current LHC experiments.","{'Giacomo Cacciapaglia', 'Francesco Carnevali', 'Alberto Orso Maria Iorio', 'Francesco Sannino', 'Roberta Calabrese', 'Agostino De Iorio', 'Stefano Morisi', 'Antimo Cagnotta'}",2023-04-19T16:24:35Z,2022-10-13 16:15:28+00:00
+for the current LHC experiments.","{'Stefano Morisi', 'Francesco Sannino', 'Agostino De Iorio', 'Giacomo Cacciapaglia', 'Roberta Calabrese', 'Francesco Carnevali', 'Antimo Cagnotta', 'Alberto Orso Maria Iorio'}",2023-04-19T16:24:35Z,2022-10-13 16:15:28+00:00
 anomalous coupling studies with intact protons at the lhc,"We describe the reaches on quartic $\gamma \gamma \gamma \gamma$, $\gamma
 \gamma WW$, $\gamma \gamma ZZ$, $\gamma \gamma \gamma Z$, $\gamma \gamma t
 \bar{t}$ anomalous couplings at the LHC using intact protons in the final state
@@ -2877,7 +2877,7 @@ resummation, and discuss nonperturbative corrections due to hadronization and
 showers using the Pythia event generator. We observe that forward dijets in
 proton-nucleus collisions at moderately low pT are excellent probes of
 saturation effects, as the Sudakov resummation does not alter the suppression
-of the cross section.","{'S. Sapeta', 'A. van Hameren', 'K. Kutak', 'P. Kotko', 'H. Kakkad', 'P. van Mechelen', 'M. Abdullah Al-Mashad'}",2022-10-26T19:29:55Z,2022-10-12 22:38:36+00:00
+of the cross section.","{'H. Kakkad', 'K. Kutak', 'P. Kotko', 'P. van Mechelen', 'S. Sapeta', 'A. van Hameren', 'M. Abdullah Al-Mashad'}",2022-10-26T19:29:55Z,2022-10-12 22:38:36+00:00
 "charmonium production in pp collisions at energies available at the cern
   large hadron collider","We have performed a systematic study of J/$\psi$ and $\psi$(2S) production in
 p--p collisions at different Large Hadron Collider (LHC) energies and at
@@ -2890,7 +2890,7 @@ J/$\psi$ and $\psi$(2S) cross-sections have been calculated by including the
 feed-down from B mesons using a fixed-order next-to-leading logarithm
 formalism. It is found that all the experimental cross-sections are well
 described for $p_{\rm T} >$ 3 GeV within the theoretical uncertainties arising
-due to the choices of the factorization and renormalization scales.","{'Mahatsab Mandal', 'Pradip Roy', 'Biswarup Paul', 'Sukalyan Chattapadhyay'}",2022-10-10T09:32:59Z,2022-10-10 09:32:59+00:00
+due to the choices of the factorization and renormalization scales.","{'Pradip Roy', 'Biswarup Paul', 'Sukalyan Chattapadhyay', 'Mahatsab Mandal'}",2022-10-10T09:32:59Z,2022-10-10 09:32:59+00:00
 new features in the differential cross sections measured at the lhc,"The critical analysis of the new experimental data obtained by the ATLAS
 Collaboration group at 13 TeV is presented and the problem of the tension
 between data of the ATLAS and TOTEM Collaboration is considered.
@@ -2912,7 +2912,7 @@ charge asymmetry are well reproduced. An interesting linear scaling behavior is
 observed in the lepton charge asymmetry as a function of the collision system
 valence quark number asymmetry among the different size of nuclear collision
 systems at $\sqrt{s_{\rm NN}}=5.02$ TeV. This linear scaling behavior may serve
-as an additional constraint on the PDF (nPDF) extractions.","{'Liang Zheng', 'Dai-Mei Zhou', 'Xiao-Ming Zhang', 'Du-Juan Wang', 'Xiao-Mei Li', 'An-Ke Lei', 'Gang Chen', 'Yu-Liang Yan', 'Ben-Hao Sa', 'Xu Cai'}",2022-10-22T18:24:16Z,2022-10-05 17:39:02+00:00
+as an additional constraint on the PDF (nPDF) extractions.","{'Yu-Liang Yan', 'Xiao-Mei Li', 'Du-Juan Wang', 'Ben-Hao Sa', 'Dai-Mei Zhou', 'Xu Cai', 'Gang Chen', 'An-Ke Lei', 'Xiao-Ming Zhang', 'Liang Zheng'}",2022-10-22T18:24:16Z,2022-10-05 17:39:02+00:00
 "the higgs condensate as a quantum liquid: a critical comparison with
   observations","The triviality of four-dimensional scalar quantum field theories poses
 challenging problems to the usually adopted perturbative implementation of the
@@ -2961,7 +2961,7 @@ our calculations, the new $X(6900)$ state observed by LHCb may be not a ground
 $cc\bar{c}\bar{c}$ tetraquark state, while it could be an orbitally or radially
 excited state of $cc\bar{c}\bar{c}$ system. On the other hand, the recently
 reported $X(6600)$ state by CMS and ATLAS can be explained as a ground
-$cc\bar{c}\bar{c}$ tetraquark state with spin-parity $J^{PC} =0^{++}$.","{'Jin-Bao Wang', 'Chun-Sheng An', 'Gang Li', 'Jie Zhang', 'Ju-Jun Xie', 'Cheng-Rong Deng'}",2022-12-13T02:33:51Z,2022-09-28 06:24:48+00:00
+$cc\bar{c}\bar{c}$ tetraquark state with spin-parity $J^{PC} =0^{++}$.","{'Jin-Bao Wang', 'Cheng-Rong Deng', 'Chun-Sheng An', 'Jie Zhang', 'Ju-Jun Xie', 'Gang Li'}",2022-12-13T02:33:51Z,2022-09-28 06:24:48+00:00
 "drell-yan production in third-generation gauge vector leptoquark models
   at nlo+ps in qcd","Motivated by the long-standing hints of lepton-flavour non-universality in
 the $b \to c \ell \nu$ and $b \to s \ell^+ \ell^-$ channels, we study Drell-Yan
@@ -3037,7 +3037,7 @@ the two can consume about 80% of the total runtime. Using NLO simulations of
 $pp\to\ell^+\ell^-+\text{jets}$ and $pp\to t\bar{t}+\text{jets}$ as an example,
 we demonstrate that the computing footprint of LHAPDF and Sherpa can be reduced
 by factors of order 10, while maintaining the formal accuracy of the event
-sample. The improved codes are made publicly available.","{'Andy Buckley', 'Max Knobbe', 'Tim Martin', 'Enrico Bothmann', 'Marek Schönherr', 'Stefan Höche', 'Christian Gütschow', 'Ilektra A. Christidi'}",2022-09-02T07:00:55Z,2022-09-02 07:00:55+00:00
+sample. The improved codes are made publicly available.","{'Enrico Bothmann', 'Ilektra A. Christidi', 'Max Knobbe', 'Stefan Höche', 'Andy Buckley', 'Christian Gütschow', 'Tim Martin', 'Marek Schönherr'}",2022-09-02T07:00:55Z,2022-09-02 07:00:55+00:00
 "rse production amplitude and possible evidence of a (pseudo)scalar boson
   at about 57 gev","Threshold enhancements predicted by the Resonance-Spectrum-Expansion (RSE)
 production amplitude and observed by the BaBaR Collaboration in open-bottom
@@ -3050,7 +3050,7 @@ as it is enhanced by the nearby presence of the Higgs resonance. This supports
 the assumption of pair production at about 115 GeV. An accumulation of
 single-photon and dimuon data around 28 GeV observed by the L3 and the CMS
 Collaborations, respectively, lend further credit to the hypothesis of the
-existence of a (pseudo)scalar boson with a mass of about 57 GeV.","{'Eef van Beveren', 'George Rupp'}",2023-03-03T16:10:15Z,2022-08-29 14:12:46+00:00
+existence of a (pseudo)scalar boson with a mass of about 57 GeV.","{'George Rupp', 'Eef van Beveren'}",2023-03-03T16:10:15Z,2022-08-29 14:12:46+00:00
 "$w^\pm z$ production at nnlo qcd and nlo ew matched to parton showers
   with minnlo$_{\rm ps}$","We consider $W^\pm Z$ production in hadronic collisions and present
 high-precision predictions in QCD and electroweak (EW) perturbation theory
@@ -3068,4 +3068,4 @@ resonance structure of the process. We find that NNLO QCD predictions including
 QCD and QED shower effects provide a very good approximation in the bulk-region
 of the phase space, while EW effects become increasingly important in the
 high-energy tails of kinematic distributions. Our default predictions are in
-excellent agreement with recent ATLAS data.","{'Marius Wiesemann', 'Giulia Zanderighi', 'Daniele Lombardi', 'Silvia Zanoli', 'Jonas M. Lindert'}",2022-08-26T13:24:13Z,2022-08-26 13:24:13+00:00
+excellent agreement with recent ATLAS data.","{'Giulia Zanderighi', 'Marius Wiesemann', 'Silvia Zanoli', 'Jonas M. Lindert', 'Daniele Lombardi'}",2022-08-26T13:24:13Z,2022-08-26 13:24:13+00:00
