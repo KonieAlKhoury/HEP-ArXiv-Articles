@@ -46,10 +46,10 @@ def main():
     #Pushing the processed data to a new table in the same database
     #Prepare the 3 dataframes, 1 for the title, 1 for the summary and 1 for the authors
     # create a unique identifier per each row (to be used for joining the dataframes later on)
-    df_Arxiv['Paper identifier'] = df_Arxiv.index
-    df_Arxiv_title = df_Arxiv[['Paper identifier','title']]
-    df_Arxiv_summary = df_Arxiv[['Paper identifier','summary']]
-    df_Arxiv_authors = df_Arxiv[['Paper identifier','authors']]
+    df_Arxiv['paperidentifier'] = df_Arxiv.index
+    df_Arxiv_title = df_Arxiv[['paperidentifier','title']]
+    df_Arxiv_summary = df_Arxiv[['paperidentifier','summary']]
+    df_Arxiv_authors = df_Arxiv[['paperidentifier','authors']]
 
     #Convert the list-like columns to seperate rows
     df_Arxiv_title = df_Arxiv_title.explode('title')
