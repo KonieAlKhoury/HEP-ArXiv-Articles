@@ -27,7 +27,7 @@ The packages that are needed to run the code, you can install them running the f
 ```bash
 pip3 install -r requirements.txt
 ```
-Environement variables need to be created to connect to PostgreSQL, specifying the user and the user and the password:
+Environement variables need to be created to connect to PostgreSQL, specifying the user and the password:
 ```bash
 export POSTGRES_USER="postgres"
 export POSTGRES_PW="xxxxxxx"
