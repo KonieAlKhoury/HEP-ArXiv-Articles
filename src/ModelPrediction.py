@@ -1,4 +1,4 @@
-from Get_data_postgres import engine_connection
+from PostgresConnection import engine_connection
 import pandas as pd
 from sqlalchemy import text
 import matplotlib.pyplot as plt
@@ -15,6 +15,17 @@ from sklearn.linear_model import LogisticRegression
 
 
 def find_category(row, words):
+    """
+    Find the category of a given row based on the presence of certain words in the title or summary.
+
+    Parameters:
+    - row: A dictionary representing a row of data.
+    - words: A list of words representing the categories to search for.
+
+    Returns:
+    - The category that matches the words found in the title or summary, or 'None' if no match is found.
+    """
+    
     title_words = set(row['title'].lower().split())
     summary_words = set(row['summary'].lower().split())
     for category in words:
@@ -35,8 +46,6 @@ def main():
         LEFT JOIN public."{table_summary}" s ON t.paperidentifier = s.paperidentifier
         ORDER BY t.paperidentifier DESC
     '''
-
-    # query = f'SELECT paperidentifier, summary FROM public."{table_summary}"'
 
     with engine.connect() as connection:
         result_title = connection.execute(text(query)).fetchall()

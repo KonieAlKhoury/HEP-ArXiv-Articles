@@ -8,6 +8,16 @@ import os
 import string
 
 def data_preparation(df):
+    """
+    Preprocesses the input dataframe by performing several data cleaning steps.
+
+    Args:
+        df (pandas.DataFrame): The input dataframe containing the text data.
+
+    Returns:
+        pandas.DataFrame: The preprocessed dataframe with cleaned text data.
+    """
+
     # start preparing the data by setting all words to lower case
     df = df.str.lower()
     # remove "\n" from title and summary and convert them to a space

@@ -4,6 +4,7 @@ from sqlalchemy import text
 import matplotlib.pyplot as plt
 
 def main():
+
     # Get the data from the postgres database
     database = "Arxiv_data"
     table_title = "Arxiv_data_title"
