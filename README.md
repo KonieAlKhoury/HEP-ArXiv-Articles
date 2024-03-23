@@ -108,7 +108,7 @@ The `LogisticRegression model achieved an accuracy of 60%`, which is higher than
 
 The accuracy of the models was evaluated using the test data. It showed to be lower than the testing accuracy in both cases. Since the model performs well on the `training data (accuracy of 77%)` but poorly on the test data, it is a sign of overfitting.
 
-There are many wights to investigate and improve the results, such as increasing the data statistics (now only using 500 articles, can use more), hyper parameters optimisation (now using standard parameters), consider other models more dedicated for this project.   
+There are many ways to investigate and improve the results, such as increasing the data statistics (now only using 500 articles, can use more), hyper parameters optimisation (now using standard parameters), consider other models more dedicated for this project.   
  
 
 
