@@ -1,5 +1,5 @@
 # environement files
 .env
 # compiled python files
-pycache/*
-*.py[cod]
+__pycache__/*
+__pycache__/
