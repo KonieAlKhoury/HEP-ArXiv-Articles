@@ -3,7 +3,7 @@ import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
-from Get_data_postgres import Get_data_postgres, write_data_postgres
+from PostgresConnection import Get_data_postgres, write_data_postgres
 import os
 import string
 

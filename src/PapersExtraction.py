@@ -23,7 +23,7 @@ def load_data(query, max_results, add_options=''):
 
     # Define the URL for the ArXiv API
     url = f'http://export.arxiv.org/api/query?search_query={query}&start=0&max_results={max_results}{add_options}'
-
+    # Parse the data from the URL
     data = feedparser.parse(url)
 
     # Check if the feed was parsed successfully
@@ -37,7 +37,7 @@ def load_data(query, max_results, add_options=''):
 
 
 def main():
-    # This load the data of the last 500 papers in the 'hep-ph' category and from the ATLAS experiment
+    # load the data of the last 500 papers in the 'hep-ph' category and from the ATLAS experiment
     query = 'cat:hep-ph+AND+all:ATLAS'
     max_results=500
     add_options = '&sortBy=submittedDate&sortOrder=descending'
@@ -48,6 +48,7 @@ def main():
     print(data.entries[0].keys())
 
     List_Arxiv = []
+    # Extract the title, summary, authors, updated and published date
     for entry in data.entries:
         List_Arxiv.append({
             'title':entry.title,
@@ -58,12 +59,12 @@ def main():
 
     #Load data in the dataframe and check the first 5 rows        
     df_Arxiv = pd.DataFrame(List_Arxiv)  
+    #print the first 5 rows
     print(df_Arxiv.head(5))
 
     #Get the number of published paper as function of time
     # Convert the string to a datetime object
     df_Arxiv['published'] = pd.to_datetime(df_Arxiv['published'])
-
     # Count the number of papers published per month
     df_Arxiv['published'].dt.to_period('M').value_counts().sort_index().plot()
     # Add title and labels
@@ -78,11 +79,10 @@ def main():
     df_Arxiv['authors'] = df_Arxiv['authors'].apply(lambda authors: [author['name'] for author in authors])
     # Check if the ATLAS Collaboration is in the list of authors
     df_Arxiv['ATLAS Collaboration'] = df_Arxiv['authors'].apply(lambda authors: 'ATLAS Collaboration' in authors)
-    # print(df_Arxiv['ATLAS Collaboration'].value_counts())
     # Plot the number of papers published under the ATLAS Collaboration and other
     df_Arxiv['ATLAS Collaboration'].value_counts().plot(kind='bar')
     # Add title and labels
-    plt.title('% of Papers published under the ATLAS Collaboration')
+    plt.title('Papers published under the ATLAS Collaboration compared to Other')
     plt.xlabel('Authors')
     plt.ylabel('Number of papers')
     plt.xticks([1, 0], ['ATLAS Collaboration', 'Other'], rotation=0)
@@ -91,21 +91,22 @@ def main():
     #Check if the paper has a search, measurement or other specific results using the title
     #First convert the title to lower case 
     df_Arxiv['title'] = df_Arxiv['title'].str.lower()
+    #search for the words in the title
     df_Arxiv['Paper Type'] = df_Arxiv['title'].apply(lambda title: 'Search' if 'search' in title else ('Measurement' if 'measurement' in title else 'Other'))
     df_Arxiv['Paper Type'].value_counts().plot(kind='bar')
-    # Add title and labels
     plt.title('Number of paper per type of analysis')
     plt.xlabel('')
     plt.ylabel('Number of papers')
     plt.xticks(rotation=0)
     plt.show()
 
+    #Save the data in the database
     database = "Arxiv_data"
     table = "Last_500_papers"
+    #dop the columns Paper Type and ATLAS Collaboration
     del df_Arxiv['Paper Type'],df_Arxiv['ATLAS Collaboration'] 
     write_data_postgres(df_Arxiv,database,table)
     
-
 
 if __name__ == '__main__':
     main()

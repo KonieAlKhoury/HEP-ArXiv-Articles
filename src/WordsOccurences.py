@@ -1,4 +1,4 @@
-from Get_data_postgres import engine_connection
+from PostgresConnection import engine_connection
 import pandas as pd
 from sqlalchemy import text
 import matplotlib.pyplot as plt
