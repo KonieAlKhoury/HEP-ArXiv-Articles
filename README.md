@@ -43,6 +43,7 @@ This project has the following structure:
   - `DataPreparation.py`: This script reads the postgres table, then process and structure the data 
   - `WordsOccurences.py`: This scripts allows to performce analysis on the occurencies in the articles' summaries and titles
   - `ModelPrediction.py`: This scripts contains machine learning model training, and applies the model to make predictions.
+- `plots/`: This directory contains all resulting plots
 - `requirements.txt`: This file lists the dependencies that need to be installed.
 - `README.md`: This file provides an overview of the project.
 
@@ -57,8 +58,11 @@ Once the data is fetched, it is stored in a Pandas DataFrame for further process
 
 Various plots are made to visualize the data and their quality:
 - First the number of published papers per month is checked
+![Plot Image](plots/NumberOfPapers.png)
 - Then since the papers published under the name of the whole ATLAS collaboration indicate it as the author name, the number of the articles with `ATLAS Collaborartion` are check vs the res (published by one team)
+![Plot Image](plots/Authors.png)
 - Last since there are different results analysis, the articles with `search` and `measurement` are compared with respect to the rest. 
+![Plot Image](plots/Results.png)
 
 After the analysis, the data along with the results are stored in a PostgreSQL database, to be easily used across this project.
 

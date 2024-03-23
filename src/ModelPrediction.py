@@ -95,7 +95,7 @@ def main():
     plt.title('Top 20 words sorted by weight')
     plt.ylabel('Word')
     plt.xlabel('weight')
-    # plt.show()
+    plt.savefig('plots/Top40FromCountVectorizer.png')
     
     # Training Machine Learning Model to classify the paper into categories based on the title and summary
     #preparinf the category data

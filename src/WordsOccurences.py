@@ -45,7 +45,7 @@ def main():
     plt.xlabel('Count')
 
     plt.tight_layout()
-    plt.show()
+    plt.savefig('plots/Top20words.png')
 
     
 

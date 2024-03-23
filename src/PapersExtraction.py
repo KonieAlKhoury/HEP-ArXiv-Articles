@@ -2,7 +2,7 @@ import feedparser
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-from Get_data_postgres import  write_data_postgres
+from PostgresConnection import  write_data_postgres
 
 def load_data(query, max_results, add_options=''):
     """
@@ -71,7 +71,7 @@ def main():
     title = 'Number of papers published per month'
     plt.title(title)
     plt.ylabel('Number of papers')
-    plt.show()
+    plt.savefig('plots/NumberOfPapers.png')
 
 
     # Check the number of papers published under the ATLAS Collaboration
@@ -86,7 +86,7 @@ def main():
     plt.xlabel('Authors')
     plt.ylabel('Number of papers')
     plt.xticks([1, 0], ['ATLAS Collaboration', 'Other'], rotation=0)
-    plt.show()
+    plt.savefig('plots/Authors.png')
 
     #Check if the paper has a search, measurement or other specific results using the title
     #First convert the title to lower case 
@@ -98,7 +98,7 @@ def main():
     plt.xlabel('')
     plt.ylabel('Number of papers')
     plt.xticks(rotation=0)
-    plt.show()
+    plt.savefig('plots/Results.png')
 
     #Save the data in the database
     database = "Arxiv_data"
