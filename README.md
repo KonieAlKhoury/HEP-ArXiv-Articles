@@ -83,12 +83,15 @@ First it it reads the data from the seperate PostgreSQL tables for titles and su
 The frequency of each word in the titles and summaries. It does this from the tokanised text data which is already stored into individual words and then counting the occurrences of each word.
 The frequency of the top 20 words in the title and summary are compared.
 
+![Plot Image](plots/Top20words.png)
+
 ### Machine Learning training and accuracy
 In this final part, machine learning model sare used to classify the article into a category, using the title and the summary.
 
 First the most common/occuring words are checked, using the PostgreSQL tables and joining the title and summry into one field.
 The words counts are calculated by the `CountVectorizer` from the `sklearn.feature_extraction.text` library. 
 The 40 most common words are extracted with theirs weights using (`TfidfTransformer`). Would be also nice to point out here the similarity of the top words with respect to the results from the previous part.
+![Plot Image](plots/Top40FromCountVectorizer.png)
 
 In the last part, and based on the results just obtained, a column is added to the dataframe called "Category".
 This is done by taking the list of the 40 common words, removing words sush as "data", "lhc", "also",.. and keeping only words that reflects a category of classification. The "Category" will hold only words out of the list, chosen if it is exists in eithe the title or the summary (and the most common in case several words from the list exist in the title and summary).
