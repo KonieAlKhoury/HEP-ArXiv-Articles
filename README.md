@@ -104,9 +104,9 @@ The two considered models are:
   In this model `n_neighbors=2` is used. 
 - LogisticRegression: makes predictions based on a logistic function, works well for to predict binary classes
 
-The LogisticRegression model achieved an accuracy of 60%, which is higher than the accuracy of the KNeighborsClassifier which is 50%.
+The `LogisticRegression model achieved an accuracy of 60%`, which is higher than the accuracy of the `KNeighborsClassifier which is 50%`.
 
-The accuracy of the models was evaluated using the test data. It showed to be lower than the testing accuracy in both cases. Since the model performs well on the training data (accuracy of 77%) but poorly on the test data, it is a sign of overfitting.
+The accuracy of the models was evaluated using the test data. It showed to be lower than the testing accuracy in both cases. Since the model performs well on the `training data (accuracy of 77%)` but poorly on the test data, it is a sign of overfitting.
 
 There are many wights to investigate and improve the results, such as increasing the data statistics (now only using 500 articles, can use more), hyper parameters optimisation (now using standard parameters), consider other models more dedicated for this project.   
  
